@@ -63,7 +63,7 @@ export default async function(eleventyConfig) {
 			language: "en",
 			title: "Adam DJ Brett",
 			subtitle: "Web Developer Adam Dj Brett",
-			base: "https://adamdjbrett.pages.dev",
+			base: "https://www.adamdjbrett.com",
 			author: {
 				name: "Adam Dj Brett"
 			}
