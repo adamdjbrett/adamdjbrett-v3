@@ -1,0 +1,11 @@
+<div class="col-6 p-3">
+<h3 class="ms-3 small">{{education.title}}</h3>
+{% for ed in education.tech %}
+<div class="p-3">
+<p>{{ed.title}}</p>
+<ul>
+{% for xs in ed.text %}<li>{{xs.edu}}</li>{% endfor %}
+</ul>
+</div>
+{% endfor %}
+</div>

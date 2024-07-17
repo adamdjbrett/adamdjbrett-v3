@@ -1,0 +1,144 @@
+{
+  "title": "Adam Dj Brett",
+  "description": "Adam Dj Brett Web Developer",
+  "icon": "/assets/img/logo.png",
+  "favicon": "/assets/img/logo.png",
+  "cover": "/assets/img/logo.png",
+  "image": "/assets/img/logo.png",
+  "language": "en",
+  "locale": "en_US",
+  "formspree_id": "https://formspree.io/xdodoqnq",
+  "url": "https://www.adamdjbrett.com",
+
+  "nav_title": "ADAM DJ BRETT",
+  "navbar":
+  [
+     {
+      "nav": "HOME",
+      "key": "h",
+      "link": "/"
+     },
+     {
+      "nav": "INFO",
+      "key": "i",
+      "link": "/info/"
+     },
+     {
+      "nav": "PROJECT",
+      "key": "p",
+      "link": "/project/"
+     },
+     {
+      "nav": "BLOG",
+      "key": "b",
+      "link": "/blog/"
+     },
+     {
+      "nav": "CV",
+      "key": "v",
+      "link": "/cv/"
+     }
+  ],
+
+  "navbar_dropdown_title": "PAGES",
+  "navbar_dropdown":
+  [
+     {
+      "nav": "GALLERY",
+      "key": "g",
+      "link": "/gallery"
+     },
+     {
+      "nav": "CODES",
+      "key": "o",
+      "link": "/codes/"
+     },
+     {
+      "nav": "CONNECT",
+      "key": "n",
+      "link": "/connect/"
+     },
+     {
+      "nav": "ABOUT",
+      "key": "1",
+      "link": "/about/"
+     },
+     {
+      "nav": "CONSULTING",
+      "key": "l",
+      "link": "/consulting/"
+     }
+  ],
+
+  "social": 
+  [
+     {
+      "nav": "Visit my Mastodon",
+      "key": "m",
+      "icon": "mastodon",
+      "link": "https://mastodon.social/@creativitas"
+     },
+     {
+      "nav": "Visit my Twitter",
+      "key": "t",
+      "icon": "twitter-x",
+      "link": "/"
+     },
+     {
+      "nav": "Visit My Facebook",
+      "key": "f",
+      "icon": "facebook",
+      "link": "/"
+     }
+  ],
+
+  "localbusiness": {
+    "address": "4100 Broxton Court",
+    "locality": "Hephzibah",
+    "region": "GA",
+    "postalcode": "30815",
+    "country": "US",
+    "latitude": "33.3743286",
+    "longitude": "-82.0821901,17"
+  },
+
+  "author": {
+    "name": "Adam Dj Brett",
+    "email": "adj@email.com",
+    "url": "https://www.adamdjbrett.com"
+  },
+
+  "company": {
+    "founding": "2007",
+    "city": "Augusta, GA 30815, USA",
+    "name": "Adam DJ Brett",
+    "phonecall": "18501235021",
+    "phone": "850-123-5021",
+    "businesshours": "Available 24/7",
+    "googlereview": "https://g.page/r/CcNh4bCJxK99EBE/review",
+    "address": "4100 Broxton Court - Hephzibah",
+    "maplink": "https://maps.app.goo.gl/evroidhXw8zvsc6P7",
+    "email": "admin@adamdjbrett.com"
+  },
+
+  "project": {
+    "breadcumb": "Projects",
+    "title": "Projects",
+    "button": "SEE ALL PROJECTS",
+    "link": "/project/"
+  },
+
+  "blog": {
+    "breadcumb": "Blog",
+    "title": "Featured Posts",
+    "button": "SEE ALL POSTS",
+    "link": "/blog/"
+  },
+
+  "footer": {
+    "text1": "Copyrights",
+    "text2": "Adam DJ Brett",
+    "link": "https://www.adamdjbrett.com"
+  }
+
+}

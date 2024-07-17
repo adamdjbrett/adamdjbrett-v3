@@ -1,0 +1,16 @@
+<div id="myModal" class="modal">
+<span class="close cursor" onclick="closeModal()">&times;</span>
+<div class="modal-content">
+{% for t in galleries %}
+<div class="mySlides">
+<div class="numbertext">{{t.title}}</div>
+<img class="img-banner" alt="{{t.title}}" loading="lazy" src="https://wsrv.nl/?url={{metadata.url}}{{t.image}}&w=800&output=webp">
+</div>
+{% endfor %}
+<a class="prev" onclick="plusSlides(-1)">&#10094; Previous</a>
+<a class="next" onclick="plusSlides(1)"> Next &#10095;</a>
+<div class="caption-container">
+<p id="caption"></p>
+</div>
+</div>
+</div>

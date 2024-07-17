@@ -1,0 +1,48 @@
+<div class="container-fluid mts border-top  printer">
+
+<div class="row mt-5 mb-5 mts text-center">
+{% for n in metadata.navbar %}
+<div class="col-md-2 col-4">
+<a class="info" href="{{n.link}}" title="{{n.nav}}">{{n.nav}}</a>
+</div>
+{% endfor %}
+<div class="col-md-2 col-4">
+<a href="#" class="info dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+{{metadata.navbar_dropdown_title}}
+</a>
+<ul class="dropdown-menu">
+{% for c in metadata.navbar_dropdown %}
+<li class="p-3 glass-dark glass navis"><a href="{{c.link}}" accesskey="{{c.key}}">{{c.nav}}</a></li>
+{% endfor %}
+</ul>
+</div>
+</div>
+</div>
+
+<footer class="container-fluid mts printer">
+<div class="row mt-5 mb-5 mts">
+<div class="col-md-6 p-3 p-md-5">
+<p><a href="tel:+{{metadata.company.phonecall}}" class="footer-link" accesskey="n">
+{{metadata.company.phone}}
+</a></p>
+<p><a href="mailto:{{metadata.company.email}}" class="footer-link" accesskey="e">
+{{metadata.company.email}}
+</a></p>
+<p><a href="{{metadata.company.maplink}}" target="_blank" class="footer-link" accesskey="a">
+{{metadata.company.address}}
+</a></p>
+</div>
+
+<div class="col-md-6 p-3 p-md-5 mt-5 text-end">
+<a href="#" title="backtotop">
+<i class="bi bi-arrow-up-circle" style="font-size: 1.8rem; "></i>
+</a>
+<p>{{metadata.footer.text1}} <a href="{{metadata.footer.link}}" class="footer-link">{{metadata.footer.text2}}</a></p>
+</div>
+
+</div>
+</footer>
+
+<script src="/js/index.js"></script>
+</body>
+</html>

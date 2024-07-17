@@ -1,0 +1,16 @@
+<div class="container-fluid mts border-top">
+<div class="row mt-5 mb-5 justify-content-center">
+<div class="col-6 p-3">
+<h3 class="ms-3 small">{{experience.title}}</h3>
+{% for e in experience.tech %}
+<div class="p-3">
+<p>{{e.title}}</p>
+<ul>
+{% for x in e.text %}<li>{{x.job}}</li>{% endfor %}
+</ul>
+</div>
+{% endfor %}
+</div>
+{% include "widget/info/edu.njk" %}
+</div>
+</div>

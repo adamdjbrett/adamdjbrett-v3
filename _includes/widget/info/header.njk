@@ -1,0 +1,18 @@
+<header class="container-fluid">
+<div class="row p-3 mt-5">
+<div class="col-md-6">
+<div class="p-3  mt-3">
+<h1 class="subheader_title"><a href="{{page.url}}">{{header}}</a></h1>
+</div>
+</div>
+<div class="col-md-6 3 p-md-5" 
+style="
+background-image: url('https://wsrv.nl/?url={{metadata.url}}{{image}}&w=800&output=webp');
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover; 
+">
+</div>
+<div class="col-md-10 mx-auto p-3">{{content|safe}}</div>
+</div>
+</header>

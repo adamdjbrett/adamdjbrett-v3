@@ -1,0 +1,17 @@
+<div class="printer">
+<span style="float: right"><i class="bi bi-file-earmark-pdf"></i>
+&nbsp;&nbsp;<a title="Download as PDF" href="#">Download</a>
+</span>
+</div>
+<header>
+<img class="cv-photo" src="https://wsrv.nl/?url={{metadata.url}}{{cv.data.image}}&w=80&output=webp" alt="{{cv.data.name}}" 
+width="80" height="80" loading="eager"/>
+<h1 class="cv-name"><strong>{{cv.data.name}}</strong></h1>
+<span class="text-muted">{{cv.data.tagline}}</span>
+</header>
+<section class="cv-basic-info">
+<span class="cv-basic-info-item"><i class="bi bi-{{cv.data.email_icon}}"></i>&nbsp;&nbsp;<a href="mailto:{{cv.data.email}}">{{cv.data.email}}</a></span>
+<span class="cv-basic-info-item"><i class="bi bi-{{cv.data.phone_icon}}"></i>&nbsp;&nbsp;{{cv.data.phone | safe }}</span>
+<span class="cv-basic-info-item"><i class="bi bi-{{cv.data.website_icon}}"></i>&nbsp;&nbsp;<a href="{{cv.data.website }}">{{cv.data.website }}</a></span>
+<span class="cv-basic-info-item"><i class="bi bi-{{cv.data.location_icon}}"></i>&nbsp;&nbsp;{{cv.data.location | safe }}</span>
+</section>

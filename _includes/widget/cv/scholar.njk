@@ -1,0 +1,13 @@
+<section class="cv-section">
+<header class="cv-section-header">
+<h2 class="cv-title-work"><span><strong>
+{{cv.data.data.scholarship.title}}
+</strong></span></h2>
+</header>
+<div class="cv-item">
+{% for sco in collections.scholarshipcv | reverse %}
+<span class="cv-basic-info-item"><strong>{{sco.data.title}}</strong></span>
+<div class="cv-item-content p-3 ms-5 lim">{{ sco.templateContent | safe }}</div>
+{% endfor %}
+</div>
+</section>

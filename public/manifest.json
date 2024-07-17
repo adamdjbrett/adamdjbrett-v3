@@ -1,0 +1,22 @@
+{
+	"background_color": "#FB3B15",
+	"theme_color": "#FB3B15",
+	"name": "ADAMDJBRETT",
+	"short_name": "ADAMDJBRETT",
+	"display": "minimal-ui",
+	"start_url": "/",
+	"icons": [
+		{
+			"src": "android-icon-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "logo.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"purpose": "any maskable"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+<div reversed class="row">
+{% for post in postslist | reverse %}
+<div class="col-md-4 p-3 p-md-5">
+{% if post.data.image %}<a href="{{ post.url }}"><img class="img-fluid img-post" alt="{{ post.data.title }}" width="100%" height="100%" src="https://wsrv.nl/?url={{metadata.url}}{{post.data.image}}&w=400&output=webp"/></a>{% endif %}
+<a href="{{ post.url }}" class="p-3">
+{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}
+<time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate("LLLL yyyy") }}</time>
+</a>
+</div>
+{% endfor %}
+</div>
