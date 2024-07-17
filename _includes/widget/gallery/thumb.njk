@@ -1,0 +1,10 @@
+<div class="container">
+<div class="row mt-5 mb-5">
+{% for s in galleries %}
+<div class="column">
+<img src="https://wsrv.nl/?url={{metadata.url}}{{s.image}}&w=400&output=webp" alt="{{s.title}}" loading="lazy" width="400" height="400" onclick="openModal();currentSlide({{s.order}})" class="hover-shadow zoom cursor img-thumber">
+</div>
+{% endfor %}
+</div>
+{% include "widget/gallery/modal.njk" %}
+</div>

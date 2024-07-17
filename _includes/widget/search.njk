@@ -1,0 +1,21 @@
+<div class="modal fade" id="searchModal" tabindex="-1" aria-labelledby="searchModalLabel" aria-hidden="true">
+<div class="modal-dialog modal-lg mt-5">
+<div class="modal-content glass-dark">
+<div class="modal-header">
+<h1 class="modal-title fs-5" id="searchModalLabel">
+Search Article 🔎
+</h1>
+<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+</div>
+<div class="modal-body bg-white text-dark">
+<div class="p-3">
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<style>#search input,#search,input,.pagefind-ui__search-input, #search.pagefind-ui__search-input {color:black;}</style>
+<div id="search" class="text-dark" style="color:black;"></div>
+<script>window.addEventListener('DOMContentLoaded', (event) => {new PagefindUI({ element: "#search", showSubResults: true }); });</script>
+</div>
+</div>
+</div>
+</div>
+</div>

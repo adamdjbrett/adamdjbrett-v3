@@ -1,0 +1,13 @@
+<section class="cv-section">
+<header class="cv-section-header">
+<h2 class="cv-title-work"><span><strong>
+{{cv.data.data.service.title}}
+</strong></span></h2>
+</header>
+<div class="cv-item">
+{% for sv in collections.servicescv | reverse %}
+<span class="cv-basic-info-item"><strong>{{sv.data.title}}</strong></span>
+<div class="cv-item-content p-3 ms-5 lim">{{ sv.templateContent | safe }}</div>
+{% endfor %}
+</div>
+</section>

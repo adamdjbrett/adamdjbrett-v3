@@ -1,0 +1,13 @@
+<section class="cv-section">
+<header class="cv-section-header">
+<h2 class="cv-title-work"><span><strong>
+{{cv.data.data.publications.title}}
+</strong></span></h2>
+</header>
+<div class="cv-item">
+{% for pbl in collections.publicationscv | reverse %}
+<span class="cv-basic-info-item"><strong>{{pbl.data.title}}</strong></span>
+<div class="cv-item-content p-3 ms-5 lim">{{ pbl.templateContent | safe }}</div>
+{% endfor %}
+</div>
+</section>

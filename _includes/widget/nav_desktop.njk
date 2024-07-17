@@ -1,0 +1,48 @@
+<nav class="container-fluid desktop printer">
+<div class="row">
+
+<div class="col-md-2 borders-start p-3 navis text-center">
+<a href="{{metadata.url}}">{{metadata.nav_title}}</a>
+</div>
+
+<div class="col-md-8">
+<div class="row">
+{% for n in metadata.navbar %}
+<div class="col-md-2 p-3 borders text-center navis">
+<a href="{{n.link}}" accesskey="{{n.key}}">{{n.nav}}</a>
+</div>
+{% endfor %}
+<div class="col-md-2 p-3 borders text-center">
+<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+{{metadata.navbar_dropdown_title}}
+</a>
+<ul class="dropdown-menu jusitfy-content-center">
+{% for c in metadata.navbar_dropdown %}
+<li class="p-3 glass-dark glass navis"><a href="{{c.link}}" accesskey="{{c.key}}">{{c.nav}}</a></li>
+{% endfor %}
+</ul>
+</div>
+</div>
+</div>
+
+
+<div class="col-md-2 text-center">
+<div class="row">
+
+<button data-bs-toggle="modal" data-bs-target="#searchModal" class="btn btn-lg navis col-3 p-3  borders">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+  <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0"/>
+<title>Search</title></svg>
+</button>
+{% for s in metadata.social %}
+<a rel="me" href="{{s.link}}" title="{{s.nav}}" 
+class="btn btn-lg btn-outline-light navis col-3 p-3 borders" 
+accesskey="{{s.key}}">
+<i class="bi bi-{{s.icon}}"></i>
+</a>
+{% endfor %}
+</div>
+</div>
+
+</div>
+</nav>
