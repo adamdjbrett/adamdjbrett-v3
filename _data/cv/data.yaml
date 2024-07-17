@@ -27,6 +27,7 @@ data:
   publications:
     title: Publications
   scholarship:
+    title: Public Scholarship
   collaborative-digital:
     title: "Collaborative Digital Humanities Research Projects"
   presentations:
