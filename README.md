@@ -64,23 +64,23 @@
 
 Desktop Version Test
 
-[Desktop Adjb Test](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLXVExvliwfWk7sJ-SbQsQxye3SYMqCrRx_7cxCLS-7JrXYn-L9qtspa1au_X_vlJconpPftLp-OJ9TXSOhZJjA8-3nwWree48BjT06cHKGnzGMxisDeHdUt6EhWpbNk3q8IYcvZl79HQIH9ivIiMVlxSII_7cEffRhoyY_1k1mcPE3pKvkkN1-vNAtVM/s16000/lighthouse-desktop.png)
+![Desktop Adjb Test](https://wsrv.nl/?url=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLXVExvliwfWk7sJ-SbQsQxye3SYMqCrRx_7cxCLS-7JrXYn-L9qtspa1au_X_vlJconpPftLp-OJ9TXSOhZJjA8-3nwWree48BjT06cHKGnzGMxisDeHdUt6EhWpbNk3q8IYcvZl79HQIH9ivIiMVlxSII_7cEffRhoyY_1k1mcPE3pKvkkN1-vNAtVM/s16000/lighthouse-desktop.png&output=webp)
 
 Mobile Version Test
 
-[Mobile Version Test](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi48f0Jl93VsugpSDoUfmSWXWrnPXfoNjQLq6z9qSw-9lL7r0Ggs6Nx9mgcVu9gPdn4ZI_8ofsb0oaEFaFpR7dWBkxMrcif5QfQRYb0WEPF6PLKOR9UHQ67NfqzjmYVhd7K2X1kg-Iy2CAki1LcWcdRF6Pr1Mn7g4PP8o3ClyOtTrN3SYrU60lQ_Z1Hvg0/s1293/lighthpuse-mobile.png)
+![Mobile Version Test](https://wsrv.nl/?url=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi48f0Jl93VsugpSDoUfmSWXWrnPXfoNjQLq6z9qSw-9lL7r0Ggs6Nx9mgcVu9gPdn4ZI_8ofsb0oaEFaFpR7dWBkxMrcif5QfQRYb0WEPF6PLKOR9UHQ67NfqzjmYVhd7K2X1kg-Iy2CAki1LcWcdRF6Pr1Mn7g4PP8o3ClyOtTrN3SYrU60lQ_Z1Hvg0/s1293/lighthpuse-mobile.png&output=webp)
 
 Google LD SChemes Test
 
-[Google LD Script Test](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB2ZM4Sc_uB5oYRnlFLqX5Tji-k6oT_hrEaPbBYf53w06NTaoTQznxQCoDdKOlSiCOFqFhUruwLo_Dm69ae36ebHhaI-rqRP3FXnYKaj-m4jQBm2M1sBPoyr4QaCY7VKTlZBavwYDmel4R4tUWYgNdkJapF1F1RSr0Hg4UeZw9iK8LQYFnB2UXA4PTzws/s16000/google-ld.png)
+![Google LD Script Test](https://wsrv.nl/?url=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB2ZM4Sc_uB5oYRnlFLqX5Tji-k6oT_hrEaPbBYf53w06NTaoTQznxQCoDdKOlSiCOFqFhUruwLo_Dm69ae36ebHhaI-rqRP3FXnYKaj-m4jQBm2M1sBPoyr4QaCY7VKTlZBavwYDmel4R4tUWYgNdkJapF1F1RSr0Hg4UeZw9iK8LQYFnB2UXA4PTzws/s16000/google-ld.png&output=webp)
 
 PWA Installation Test
 
-[PWA Test](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYFeXpWGz8kDSnP6MYtpj_U78p0xYNUx3THqGEDI1WpxQILnStERk7IB00hD3fkrpGPLbYSyPDtnytZNITykCDHZLfGejVGibpis_XZofFkD2lPpqGXF2tNN-M8YNb6BVSDbsZnl_M1pLajSvPKqOHCa5y7UYGALsqF3I6EAPDyIMzWIcK7b4QRiDwWFE/s16000/pwa.png)
+![PWA Test](https://wsrv.nl/?url=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYFeXpWGz8kDSnP6MYtpj_U78p0xYNUx3THqGEDI1WpxQILnStERk7IB00hD3fkrpGPLbYSyPDtnytZNITykCDHZLfGejVGibpis_XZofFkD2lPpqGXF2tNN-M8YNb6BVSDbsZnl_M1pLajSvPKqOHCa5y7UYGALsqF3I6EAPDyIMzWIcK7b4QRiDwWFE/s16000/pwa.png&output=webp)
 
 Auto SEO Injection Script
 
-[SEO Test](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqGV7eCrKmJK3JggD1anAPb7JT2qu_KLvIlLLuUDqb3qgeO2K9zaz_JZhXpVU9us6xURzZmpf5E66iIlbD6ibbVF0ItuTXIaNoqNrfkcHLS2-NpEMWYgPJnh6EMC43F9LH3u5cqgcmTJ11-Co913HjLT8cM_abzxjJinbXXc6lsMbKCH74yhsM5AOfxOo/s16000/fixautoseo-image.png)
+![SEO Test](https://wsrv.nl/?url=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqGV7eCrKmJK3JggD1anAPb7JT2qu_KLvIlLLuUDqb3qgeO2K9zaz_JZhXpVU9us6xURzZmpf5E66iIlbD6ibbVF0ItuTXIaNoqNrfkcHLS2-NpEMWYgPJnh6EMC43F9LH3u5cqgcmTJ11-Co913HjLT8cM_abzxjJinbXXc6lsMbKCH74yhsM5AOfxOo/s16000/fixautoseo-image.png&output=webp)
 
 ---
 
@@ -180,6 +180,8 @@ Download icon image and upload in to your icon frontmatter
 For embed you can simply copy and paste url link from youtube, and others.
 
 See on demo example post `content/blog/demo.md`
+
+or open [DEMO.md](DEMO.md) to see how to embed and use syntax highlights
 
 ---
 
