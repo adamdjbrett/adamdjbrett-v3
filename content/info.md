@@ -1,9 +1,9 @@
 ---
 layout: layouts/info.njk
-title: "Information about Adam Dj Brett"
-description: "If you need to know about adam dj brett visit this page."
-header: "HEY I’M A DEVELOPER. I’VE BEEN BORN AND RAISED IN THE WORLD, AND THAT’S ALSO WHERE I’M BASED. I’M CURRENTLY A FREE AGENT, EX-THIS, EX-THAT, EX-SUPER BIG NAME. WHEN I’M NOT CODING, WRITING OR CREATING, I EAT CEREALS. I HAVE A DOG, CHECK HER OUT @MYGOD."
-image: "/img/demo/adjbcool.jpg"
+title: "Information about Adam DJ Brett"
+description: "If you need to know about Adam DJ Brett visit this page."
+header: "HEY I’M A RELIGION SCHOLAR. I WORK FOR THE AMERICAN INDIAN LAW ALLIANCE AND ALSO ON THE DOCTRINE OF DISCOVERY PROJECT.  WHEN I'M NOT TEACHING OR CODING I'M PLAYING DUNGEONS & DRAGONS OR WATCHING LACROSSE."
+image: "/img/adam-dj-brett-sq-sm-min.jpg"
 folks: 
  title: "I worked with these folks:"
  tech: 
@@ -35,51 +35,39 @@ findme:
    - icon: "/img/demo/mastodon.svg"
      title: "Mastodon"
 skilles: 
-   - text: "Web 3.0"
+   - text: "HTML/CSS"
    - text: "Jekyll"
    - text: "Eleventy 11ty"
-   - text: "Astro Js"
-   - text: "Gatsby Js"
-   - text: "Next Js"
-   - text: "Docusaurus"
-   - text: "Starlight"
-   - text: "Svelte"
-   - text: "Blazor WASM"
-contact: "thisismyemail.@myemail.me"
+   - text: "WordPress"
+   - text: "JSON-LD/Schema.org"
+   - text: "Google Analytics"
+   - text: "Google Search Console"
+   - text: "Social Media"
+contact: "INFO@ADAMDJBRETT.COM"
 experience:
  title: "Experience:"
  tech: 
   - title: "Current"
     text: 
-     - job: "freelance @freelance.me" 
-  - title: "20018-2024"
+     - job: "American Indian Law Alliance" 
+  - title: "2022-Current"
     text: 
-     - job: "fullstack at this startup" 
-  - title: "2015"
+     - job: "Doctrine of Discovery Project" 
+  - title: "2015-Presnt"
     text: 
-     - job: "senior front-end at this place" 
-  - title: "2013"
+     - job: "Web-Developer, Indigenous Values Initiative" 
+  - title: "2006-Present"
     text: 
-     - job: "intern developer at a big company"
-  - title: "2011"
-    text: 
-     - job: "flipping burgers"
-     - job: "Jekyll Web Developer"
+     - job: "Freelance web devevloper"
 education:
  title: "Education:"
  tech: 
-  - title: "2015-2018"
+  - title: "2022"
     text: 
-     - edu: "BA computer sciense at a semi fancy school"
-  - title: "2014"
-    text: 
-     - edu: "React Bootcamp"
-  - title: "2011"
-    text: 
-     - edu: "JAMSTACK Bootcamp"
-     - edu: "Static Site Generator Courses Bootcamp"
+     - edu: "Ph.D., Syracuse University"
 form: 
  title: "LET'S TALK... 💬"
  button: "Submit 🚀"
-permalink: "/info/"
+permalink: /info/
+draft: true
 ---

@@ -1,8 +1,8 @@
 ---
 layout: layouts/gallery.njk
-title: "Adam Dj Brett Galleries"
+title: "Adam DJ Brett Galleries"
 image: ""
-description: "Gallery of the Art Adam Dj Brett"
+description: "Gallery of the Posters and Flyers by Adam DJ Brett"
 header: "Gallery"
 galleries: 
   - title: "2009 Diversity and Social Justice Lecture by Dr. Lester Ruiz of ATS at Brite Divinity School, Texas Christian University"

@@ -1,6 +1,6 @@
 ---
 title: Connect
-description: Let's Connect with Adam Dj Brett
+description: "Let's Connect with Adam DJ Brett"
 permalink: /connect/
 ---
 ## Around The Web

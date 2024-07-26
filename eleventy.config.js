@@ -62,7 +62,7 @@ export default async function(eleventyConfig) {
 		metadata: {
 			language: "en",
 			title: "Adam DJ Brett",
-			subtitle: "Web Developer Adam Dj Brett",
+			subtitle: "Adam DJ Brett, Ph.D. Decoding religion",
 			base: "https://www.adamdjbrett.com",
 			author: {
 				name: "Adam Dj Brett"

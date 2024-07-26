@@ -1,6 +1,6 @@
 ---
 title: Codes
-description: Adam Dj Brett Shared Codes
+description: Adam DJ Brett Shared Codes
 permalink: /codes/
 ---
 ## Discount Codes
