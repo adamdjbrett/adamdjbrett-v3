@@ -6,10 +6,8 @@
 {% for s in findme.tech %}
 <div class="col-md-2 p-3 col-4">
 <div class="p-3 zoom">
-<a href="{{s.link}}">
-<img class="img-fluid" width="26" height="26" alt="{{s.title}} {{metadata.title}}" 
-src="{{s.icon}}"/>
-<a href="" class="posts info">
+<a href="{{s.link}}" class="text-white posts info" target="_blank">
+<i class="bi bi-{{s.icon}}"></i>
 {{s.title}}
 </a>
 </div>

@@ -183,6 +183,7 @@ collections:
                fields: 
                  - { label: 'Title', name: 'title', widget: 'string' }
                  - { label: 'Icon image SVG', name: 'icon', widget: 'image' }
+                 - { label: 'URL Link', name: 'link', widget: 'string' }
           - name: 'findme'
             label: 'Find Me Area' 
             widget: 'object'
@@ -193,8 +194,8 @@ collections:
                widget: 'list'
                fields: 
                  - { label: 'Title', name: 'title', widget: 'string' }
-                 - { label: 'Icon image SVG', name: 'icon', widget: 'image' }
-                 - { label: 'Link URL', name: 'link', widget: 'string' }
+                 - { label: 'Bootstrap Icon', name: 'icon', widget: 'string' }
+                 - { label: 'URL Link', name: 'link', widget: 'string' }
           - name: 'skilles'
             label: 'Skill Area' 
             widget: 'list'
