@@ -1,7 +1,7 @@
 ---
 title: Siosl Lopso
 description: This is a post on My Blog about leveraging agile frameworks.
-image: "/img/demo/project1.jpg"
+image: "/assets/img/demo/project1.jpg"
 date: 2018-07-04
 tags:
   - number 2

@@ -1,17 +1,17 @@
 <div class="printer">
 <span style="float: right"><i class="bi bi-file-earmark-pdf"></i>
-&nbsp;&nbsp;<a title="Download as PDF" href="#">Download</a>
+&nbsp;&nbsp;<a title="Download as PDF" href="{{pdf}}">Download</a>
 </span>
 </div>
 <header>
-<img class="cv-photo" src="https://wsrv.nl/?url={{metadata.url}}{{cv.data.image}}&w=80&output=webp" alt="{{cv.data.name}}" 
+<img class="cv-photo" src="https://wsrv.nl/?url={{metadata.url}}{{image}}&w=80&output=webp" alt="{{name}}" 
 width="80" height="80" loading="eager"/>
-<h1 class="cv-name"><strong>{{cv.data.name}}</strong></h1>
-<span class="text-muted">{{cv.data.tagline}}</span>
+<h1 class="cv-name"><strong>{{name}}</strong></h1>
+<span class="text-muted">{{tagline}}</span>
 </header>
 <section class="cv-basic-info">
-<span class="cv-basic-info-item"><i class="bi bi-{{cv.data.email_icon}}"></i>&nbsp;&nbsp;<a href="mailto:{{cv.data.email}}">{{cv.data.email}}</a></span>
-<span class="cv-basic-info-item"><i class="bi bi-{{cv.data.phone_icon}}"></i>&nbsp;&nbsp;{{cv.data.phone | safe }}</span>
-<span class="cv-basic-info-item"><i class="bi bi-{{cv.data.website_icon}}"></i>&nbsp;&nbsp;<a href="{{cv.data.website }}">{{cv.data.website }}</a></span>
-<span class="cv-basic-info-item"><i class="bi bi-{{cv.data.location_icon}}"></i>&nbsp;&nbsp;{{cv.data.location | safe }}</span>
+<span class="cv-basic-info-item"><i class="bi bi-{{email_icon}}"></i>&nbsp;&nbsp;<a href="mailto:{{email}}">{{email}}</a></span>
+<span class="cv-basic-info-item"><i class="bi bi-{{phone_icon}}"></i>&nbsp;&nbsp;{{phone | safe }}</span>
+<span class="cv-basic-info-item"><i class="bi bi-{{website_icon}}"></i>&nbsp;&nbsp;<a href="{{website }}">{{website }}</a></span>
+<span class="cv-basic-info-item"><i class="bi bi-{{location_icon}}"></i>&nbsp;&nbsp;{{location | safe }}</span>
 </section>

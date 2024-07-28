@@ -1,13 +1,15 @@
 <section class="cv-section">
 <header class="cv-section-header">
 <h2 class="cv-title-work"><span><strong>
-{{cv.data.data.skills.title}}
+{{skills.title}}
 </strong></span></h2>
 </header>
 <div class="cv-item">
-{% for d in collections.skillscv | reverse %}
-<span class="cv-basic-info-item"><strong>{{d.data.title}}</strong></span>
-<div class="cv-item-content p-3 ms-5 lim">{{ d.templateContent | safe }}</div>
+<span class="cv-basic-info-item"><strong>
+{{skills.title}}
+</strong></span>
+{% for sk in skills.text %}
+<div class="cv-item-content p-3 ms-5 lim"><ul><li>{{ sk |safe }}</li></ul></div>
 {% endfor %}
 </div>
 </section>

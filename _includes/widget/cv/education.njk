@@ -1,13 +1,13 @@
 <section class="cv-section">
 <header class="cv-section-header">
 <h2 class="cv-title-work"><span><strong>
-{{cv.data.data.education.title}}
+{{educations.title}}
 </strong></span></h2>
 </header>
-{% for d in collections.educv | reverse %}
+{% for edu in educations.items %}
 <div class="cv-item">
-<span class="cv-basic-info-item"><strong>{{d.data.title}}</strong></span>
-<div class="cv-item-content p-3 ms-5">{{ d.templateContent | safe }}</div>
+<span class="cv-basic-info-item"><strong>{{edu.years |safe}}</strong></span>
+<div class="cv-item-content p-3 ms-5"><ul>{% for eds in edu.text %}<li>{{ eds |safe }}</li>{% endfor %}</ul></div>
 </div>
 {% endfor %}
 </section>

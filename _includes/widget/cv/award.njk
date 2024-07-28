@@ -1,13 +1,15 @@
 <section class="cv-section">
 <header class="cv-section-header">
 <h2 class="cv-title-work"><span><strong>
-{{cv.data.data.awards.title}}
+{{awards.title}}
 </strong></span></h2>
 </header>
 <div class="cv-item">
-{% for prs in collections.awardscv | reverse %}
-<span class="cv-basic-info-item"><strong>{{prs.data.title}}</strong></span>
-<div class="cv-item-content p-3 ms-5 lim">{{ prs.templateContent | safe }}</div>
+{% for awds in awards.text %}
+<span class="cv-basic-info-item"><strong>{{awds.title | safe}}</strong></span>
+{% for aw in awds.text %}
+<div class="cv-item-content p-3 ms-5 lim"><ul><li>{{aw | safe }}</li></ul></div>
+{% endfor %}
 {% endfor %}
 </div>
 </section>

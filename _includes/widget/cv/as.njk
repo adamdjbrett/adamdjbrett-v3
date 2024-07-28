@@ -1,0 +1,13 @@
+<section class="cv-section">
+<header class="cv-section-header">
+<h2 class="cv-title-work"><span><strong>
+{{associations.title}}
+</strong></span></h2>
+</header>
+<div class="cv-item">
+<span class="cv-basic-info-item"><strong>{{associations.title}}</strong></span>
+{% for asc in associations.text %}
+<div class="cv-item-content p-3 ms-5 lim"><ul><li>{{ asc | safe }}</li></ul></div>
+{% endfor %}
+</div>
+</section>

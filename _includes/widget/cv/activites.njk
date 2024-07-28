@@ -1,13 +1,13 @@
 <section class="cv-section">
 <header class="cv-section-header">
 <h2 class="cv-title-work"><span><strong>
-{{cv.data.data.activities.title}}
+{{activities.title}}
 </strong></span></h2>
 </header>
 <div class="cv-item">
-{% for ac in collections.activitescv | reverse %}
-<span class="cv-basic-info-item"><strong>{{ac.data.title}}</strong></span>
-<div class="cv-item-content p-3 ms-5 lim">{{ ac.templateContent | safe }}</div>
+{% for actv in activities.text %}
+<span class="cv-basic-info-item"><strong>{{ actv.title |safe }}</strong></span>
+<div class="cv-item-content p-3 ms-5 lim"><ul><li>{{ actv.list |safe }}</li></ul></div>
 {% endfor %}
 </div>
 </section>
