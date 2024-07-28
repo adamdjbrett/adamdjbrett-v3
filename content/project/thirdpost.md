@@ -1,7 +1,7 @@
 ---
 title: This is my third post.
 description: This is a post on My Blog about win-win survival strategies.
-image: "/img/demo/project3.jpg"
+image: "/assets/img/demo/project3.jpg"
 date: 2018-08-24
 tags:
   - second tag

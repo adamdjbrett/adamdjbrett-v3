@@ -34,8 +34,7 @@ export default function(eleventyConfig) {
 	});
 
 	eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
-		return (tags || []).filter(tag => ["all", "posts" , "projects", "educationcv" , "educv" , "teachcv" ,"academiccv", "activitescv" , "servicescv",
-"publications","scholarshipcv" , "digitalcv","presentationscv","awardscv","trainingcv", "languagescv","skillscv","examscv","colabscv"].indexOf(tag) === -1);
+		return (tags || []).filter(tag => ["all", "posts" , "projects"].indexOf(tag) === -1);
 	});
 
 };

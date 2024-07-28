@@ -1,13 +1,17 @@
 <section class="cv-section">
 <header class="cv-section-header">
 <h2 class="cv-title-work"><span><strong>
-{{cv.data.data.collaborative.title}}
+{{collaborative.title}}
 </strong></span></h2>
 </header>
 <div class="cv-item">
-{% for col in collections.colabscv | reverse %}
-<span class="cv-basic-info-item"><strong>{{col.data.title}}</strong></span>
-<div class="cv-item-content p-3 ms-5 lim">{{ col.templateContent | safe }}</div>
+<span class="cv-basic-info-item"><strong>{{collaborative.title |safe}}</strong></span>
+{% for colo in collaborative.text %}
+<div class="cv-item-content p-3 ms-5 lim">
+<ul><li>
+{{colo | safe}}
+</li></ul>
+</div>
 {% endfor %}
 </div>
 </section>

@@ -1,13 +1,15 @@
 <section class="cv-section">
 <header class="cv-section-header">
 <h2 class="cv-title-work"><span><strong>
-{{cv.data.data.experience.title}}
+{{experience.title}}
 </strong></span></h2>
 </header>
 <div class="cv-item">
-{% for ac in collections.academiccv | reverse %}
-<span class="cv-basic-info-item"><strong>{{ac.data.title}}</strong></span>
-<div class="cv-item-content p-3 ms-5 lim">{{ ac.templateContent | safe }}</div>
+{% for expr in experience.text %}
+<span class="cv-basic-info-item"><strong>{{ expr.title | safe }}</strong></span>
+{% for xsp in expr.list %}
+<div class="cv-item-content p-3 ms-5 lim"><ul><li>{{ xsp | safe }}</li></ul></div>
+{% endfor %}
 {% endfor %}
 </div>
 </section>
