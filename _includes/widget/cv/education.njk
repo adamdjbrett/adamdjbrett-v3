@@ -7,7 +7,7 @@
 {% for edu in educations.items %}
 <div class="cv-item">
 <span class="cv-basic-info-item"><strong>{{edu.years |safe}}</strong></span>
-<div class="cv-item-content p-3 ms-5"><ul>{% for eds in edu.text %}<li>{{ eds |safe }}</li>{% endfor %}</ul></div>
+<div class="cv-item-content p-3 ms-5"><ul>{% for eds in edu.text %}<li>{{ eds | safe}}</li>{% endfor %}</ul></div>
 </div>
 {% endfor %}
 </section>
