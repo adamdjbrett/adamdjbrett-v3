@@ -1,6 +1,7 @@
 ---
 title:  "Annoucing the Alf Jacques Ambassador Award"
 tags: website
+image: /assets/img/alf-jacques-social-image.jpg
 canonical_url: https://aila.ngo/announcing-the-alfie-jacques-ambassador-award/
 ---
 [![Alf Jacques Award Social Image](/assets/img/alf-jacques-social-image.jpg)](/assets/img/alf-jacques-social-image.jpg)
