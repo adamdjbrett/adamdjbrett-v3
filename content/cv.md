@@ -22,7 +22,8 @@ educations:
       - years: 2022
         text: 
            - Ph.D.Religion. Syracuse University, Department of Religion.
-           - "Dissertation <em>Catastrophic Christianity: An Iconological study of the Messianic Idea in American Protestant Christianity Circa 1900-1940</em>".
+           - >
+             Dissertation <em>Catastrophic Christianity: An Iconological study of the Messianic Idea in American Protestant Christianity Circa 1900-1940</em>.
            - Advisor Dr. <a href='https://artsandsciences.syracuse.edu/people/faculty/braiterman-zachary-j'>Zachary J. Braiterman</a>
       - years: 2015
         text: 
@@ -33,7 +34,8 @@ educations:
       - years: 2011
         text: 
            - Th.M., History and Theology. Brite Divinity School at Texas Christian University.
-           - "Thesis: Archaéological Theology: <del>G-d</del> Beyond God"
+           - >
+             <em>Archaéological Theology: <del>G-d</del> Beyond God</em>
       - years: 2011
         text: 
            - Ph.D. Religion. Syracuse University, Department of Religion.
