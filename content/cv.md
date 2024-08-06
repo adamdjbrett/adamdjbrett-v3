@@ -14,7 +14,7 @@ website: https://adamdjbrett.com
 website_icon: browser-safari
 location: <a href='https://thecollege.syr.edu rel="noopener">Syracuse University</a>
 location_icon: pin-map-fill
-pdf: /assets/pdfs/2023_Adam_DJ_Brett_Resume.pdf
+pdf: /assets/pdfs/2024-adamdjbrett-cv-detailed-rev10-web.pdf
 
 educations:
     title: Education
