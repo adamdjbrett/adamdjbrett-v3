@@ -160,7 +160,7 @@ experience:
           - Staked Plains, Then and Now Project <a href='https://www.stakedplains.com'>stakedplains.com</a>
           - Good Shepherd Lutheran Church, Fayetteville, NY <a href='http://goodshepcny.org/'>goodshepcny.org</a>
           - Stephanie M. Wyatt <a href='http://stephaniewyatt.net/'>stephaniewyatt.net</a>
-          - Ways of Knowing, A Fundraising Gala for the Skä•noñh - Great Law of Peace Center <a href='http://web.archive.org/web/20200322051959/https://www.waysofknowingskanonh.org/'>waysofknowingskanonh.org<a/>
+          - Ways of Knowing, A Fundraising Gala for the Skä•noñh - Great Law of Peace Center <a href='http://web.archive.org/web/20200322051959/https://www.waysofknowingskanonh.org/'>waysofknowingskanonh.org</a>
           - Aberrations A Religion Graduate Conference ⚠️Motion Warning⚠️ <a href='https://youtu.be/-LPVLx4I'>aberrations.xyz</a>
           - Haudenosaunee Women's Influence on Women's Rights Movement <a href='http://web.archive.org/web//https://www.matildaeffect.events/'>matildaeffect.events</a>
           - Honor Oren Lyons <a href='http://web.archive.org/web/20190325034727/https://honororenlyons.com/'>honororenlyons.com</a>
@@ -183,7 +183,7 @@ experience:
           - National Association of Baptist Professors of Religion <a href='https://nabpr.org'>nabpr.org</a>
           - Perspectives on Baptist Identities | A NABPR book series <a href='https://pbi.nabpr.org/'>pbi.nabpr.org</a>
           - Web Consultant
-          - Ruth Everhart <a href='https://rutheverhart.com/">rutheverhart.com<a/>
+          - Ruth Everhart <a href="https://rutheverhart.com">rutheverhart.com</a>
           - Dallas Nostaligic Gaming and Culture Club <a href='https://dallasnostalgic.club/'>dallasnostalgic.club</a>
           - Women of Italian and Syracuse Heritage, CNY (WISHCNY) <a href='https://www.wishcny.org/'>wishcny.org</a>
           - Alexander O. Smith <a href='https://www.alexanderosmith.com/'>alexanderosmith.com</a>
@@ -259,7 +259,7 @@ activities:
           - Ways of Knowing, A Fundraising Gala for the Skä•noñh - Great Law of Peace Center <a href='http://web.archive.org/web/20200322051959/https://www.waysofknowingskanonh.org/'>waysofknowingskanonh.org</a>
       - title: 2019
         list: 
-          - Co-Organizer, Web Developer/Social Media Coordinator. Deyhontsigwa’ehs- The Creator’s Game, Wooden Stick Lacrosse Festival and The First Annual Randy Hall Masters Wooden Stick Lacrosse Tournament <a href='https://indigenousvalues.org/laxweekend19/">#laxweekend19<a/>
+          - Co-Organizer, Web Developer/Social Media Coordinator. Deyhontsigwa’ehs- The Creator’s Game, Wooden Stick Lacrosse Festival and The First Annual Randy Hall Masters Wooden Stick Lacrosse Tournament <a href='https://indigenousvalues.org/laxweekend19/">#laxweekend19</a>
       - title: 2018
         list: 
           - Web Developer/Social Media Coordinator, Flourish and Decay: Exploring Religion in Process, Syracuse University Graduate Student Conference, April 13th, 2018<br/>
@@ -321,9 +321,9 @@ publications:
     title: Publications
     text: 
       - Digital Humanities as Preserving Inherently Ephemeral Information, _The Bulletin for the Study of Religion_, accepted.
-      - Co-author, Betty Lyons and Adam DJ Brett. However, Extravagant <a href='https://canopyforum.org/2023/03/23/however-extravagant-the-pretensions-of-johnson-v-mintosh'>The Pretensions Of *Johnson V. M’Intosh*"</a>
+      - Co-author, Betty Lyons and Adam DJ Brett. However, Extravagant <a href='https://canopyforum.org/2023/03/23/however-extravagant-the-pretensions-of-johnson-v-mintosh'>The Pretensions Of Johnson V. M’Intosh"</a>
       - Co-author, Philip P. Arnold, Sandra L. Bigtree and Adam DJ Brett. <a href='https://canopyforum.org/2023/03/10/introduction-to-the-200-years-of-johnson-v-mintosh-law-religion-and-native-american-lands-series/'>Introduction to the 200 Years of _Johnson v. M’Intosh_ Law, Religion, and Native American Lands Series. March 10, 2023</a>.
-      - Co-author, <a href='https://canopyforum.org/200-years-of-johnson-v-mintosh-law-religion-and-native-american-lands/'>200 Years of *Johnson v. M'Intosh* Law, Religion, and Native American Lands A Canopy Forum Thematic Series, *March -- April 2023*, Canopy Forum</a>.
+      - Co-author, <a href='https://canopyforum.org/200-years-of-johnson-v-mintosh-law-religion-and-native-american-lands/'>200 Years of Johnson v. M'Intosh Law, Religion, and Native American Lands A Canopy Forum Thematic Series, March -- April 2023, Canopy Forum</a>.
       - Journal Article Reavers aint men [_sic_] Or they forgot _how_ to be | Teaching Religion in Science Fiction, _Perspectives in Religious Studies_ 46, no. 4 (Winter 2019) 421-430 via ATLA.
       - Book Review Religion and Culture Contemporary Practices and Perspectives.” _Perspectives in Religious Studies_ 42,  no. 1 (Spr 2015) 92-94. <a href='http://search.ebscohost.com/login.aspx?direct=true&db=rfh&AN=ATLAiC9Y160711000197&site=ehost-live.'>via ATLA</a>
       - Book Review The world's religions a contemporary reader. _Perspectives in Religious Studies_ 42,  no. 1 (Spr 2015) 92-94. <a href='http://search.ebscohost.com/login.aspx?direct=true&db=rfh&AN=ATLAiC9Y160711000198&site=ehost-live'>via ATLA</a>
@@ -332,6 +332,7 @@ publications:
 scholarship:
     title: Public Scholarship
     text: 
+      - Louisiana's Ten Commandments of Truthiness, <a href="https://goodfaithmedia.org/louisianas-ten-commandment-truthiness/">Good Faith Media<?a>
       - Trump's Dangerous Rhetoric of Dehumanization, <a href='https://goodfaithmedia.org/432273-2/'>Good Faith Media</a>  
       - Lacrosse Legends LaxCon 2023 interview <a href='https://youtu.be/I3xEH8Vorcw'>youtube</a>
       - Quoted in Gabriel Pietrorazio’s Why Hasn’t The Pope Denounced The Doctrine Of Discovery?” Sojourners (Oct. 4, 2022) <a href='https://sojo.net/articles/why-hasn-t-pope-denounced-doctrine-discovery'>sojo.net</a>.
@@ -339,24 +340,26 @@ scholarship:
 collaborative:
     title: Collaborative Digital Humanities Research Projects
     text: 
-      - "**Executive Producer**, *Doctrine of Christian Discovery Podcast* Limited Series, <a href='https://goodfaithmedia.org/doctrine-of-christian-discovery/'>link.adjb.co/docd</a>"
-      - "**Academic Collaborative Member, Web Developer**, *Doctrine of Discovery Project* <a href='https://doctrineofdiscovery.org'>doctrineofdiscovery.org</a>, (2017-present)"
-      - "**Co-Producer**, *Mapping the Doctrine of Discovery A Podcast* <a href='https://podcast.doctrineofdiscovery.org'>podcast.doctrineofdiscovery.org</a>, (2022-present)"
-      - "**Web Developer,** Then and Now Project three case studies of dispossession (2020-present)"
-      - "*Then and now Project* <a href='https://thenandnow.us/'>thenandnow.us</a>"
-      - "*Sullivan-Clinton Campaign* <a href='https://sullivanclinton.com/'>sullivanclinton.com</a>"
-      - "*Derry Veagh Evictions* <a href='https://derryveagh.com/'>derryveagh.com</a>"
-      - "*Staked Plains/Palo Duro Canyon* <a href='https://stakedplains.com/'>stakedplains.com</a>"
-      - "**Creator**, Religious Studies Blog RSS Aggregator <a href='https://rs-rss.com/'>rs-rss.com</a>, (2024-Present)"
-      - "**Creator** Religious Studies Podcasts RSS Aggregator <a href='https://podcasts.rs-rss.com'>podcasts.rs-rss.com</a>, (2024-Present)"
-      - "**Creator** Religion Call for Papers <a href='https://relcfp.com'>relcfp.com</a>, (2011-present)"
+      - "Executive Producer, Doctrine of Christian Discovery Podcast Limited Series, <a href='https://goodfaithmedia.org/doctrine-of-christian-discovery/'>link.adjb.co/docd</a>"
+      - "Academic Collaborative Member, Web Developer, Doctrine of Discovery Project <a href='https://doctrineofdiscovery.org'>doctrineofdiscovery.org</a>, (2017-present)"
+      - "Co-Producer, Mapping the Doctrine of Discovery A Podcast <a href='https://podcast.doctrineofdiscovery.org'>podcast.doctrineofdiscovery.org</a>, (2022-present)"
+      - "Web Developer, Then and Now Project three case studies of dispossession (2020-present)"
+      - "Then and now Project <a href='https://thenandnow.us/'>thenandnow.us</a>"
+      - "Sullivan-Clinton Campaign <a href='https://sullivanclinton.com/'>sullivanclinton.com</a>"
+      - "Derry Veagh Evictions <a href='https://derryveagh.com/'>derryveagh.com</a>"
+      - "Staked Plains/Palo Duro Canyon <a href='https://stakedplains.com/'>stakedplains.com</a>"
+      - "Creator, Religious Studies Blog RSS Aggregator <a href='https://rs-rss.com/'>rs-rss.com</a>, (2024-Present)"
+      - "Creator Religious Studies Podcasts RSS Aggregator <a href='https://podcasts.rs-rss.com'>podcasts.rs-rss.com</a>, (2024-Present)"
+      - "Creator Religion Call for Papers <a href='https://relcfp.com'>relcfp.com</a>, (2011-present)"
       - "Data Analysis of the Syracuse University Department of Religion Undergraduate Program. Research Assistant to Dr. Gareth Fisher (2016)"
-      - "**Web Developer**, *World Conference of Associated Theological Institutions (WOCATI)* <a href='https://wocati.org'>wocati.org</a>, (2011-19)"
-      - "**Research Assistant** to Dr. Namsoon Kang and WOCATI for the open access book *Challenges and Promises of Quality Assurance in Theological Education: Multicontextual and Ecumenical Inquires* <a href='https://wocati.org/challenges/'>wocati.org/challenges</a> (2013)."
+      - "Web Developer, World Conference of Associated Theological Institutions (WOCATI) <a href='https://wocati.org'>wocati.org</a>, (2011-19)"
+      - "Research Assistant to Dr. Namsoon Kang and WOCATI for the open access book Challenges and Promises of Quality Assurance in Theological Education: Multicontextual and Ecumenical Inquires <a href='https://wocati.org/challenges/'>wocati.org/challenges</a> (2013)."
 
 presentations:
     title: Academic Presentations
     text: 
+      - title: 2024
+        list: Co-presenter, Haudenosaunee and Indigenous Perspectives on Tracing the Doctrine of Christian Discovery through British Colonial Sources, 22-29 May 2024 Workshop at The National Archives (TNA), United Kingdom
       - title: 2023
         list: 
         - Co-presenter, International Dimensions of the Doctrine of Discovery Panel III International Human Rights, part of <a href='https://doctrineofdiscovery.org/blog/conference-schedule/'>The Religious Origins of White Supremacy Johnson v. M’Intosh and the Doctrine of Christian Discovery</a>
