@@ -269,25 +269,33 @@ activities:
           - Conference organizing, video editing, closed captioning, Thematic Discussion Group Moderator, panel chair for New Books in the Study of Domination.
       - title: 2020
         list: 
-          - Mother Earth’s Pandemic The Doctrine of Discovery <a href="https://indigenousvalues.org/mother-earths-pandemic/">indigenousvalues.org/mother-earths-pandemic/</a>
+          - > 
+            Mother Earth’s Pandemic The Doctrine of Discovery <a href="https://indigenousvalues.org/mother-earths-pandemic/">indigenousvalues.org/mother-earths-pandemic/</a>.
           - Conference organizing, video editing, closed captioning, Thematic Discussion Group Moderator
           - > 
             Ways of Knowing, A Fundraising Gala for the Skä•noñh - Great Law of Peace Center <a href="http://web.archive.org/web/20200322051959/https://www.waysofknowingskanonh.org/">waysofknowingskanonh.org</a>
       - title: 2019
         list: 
-          - Co-Organizer, Web Developer/Social Media Coordinator. Deyhontsigwa’ehs- The Creator’s Game, Wooden Stick Lacrosse Festival and The First Annual Randy Hall Masters Wooden Stick Lacrosse Tournament <a href="https://indigenousvalues.org/laxweekend19/">#laxweekend19</a>
+          - > 
+            Co-Organizer, Web Developer/Social Media Coordinator. Deyhontsigwa’ehs- The Creator’s Game, Wooden Stick Lacrosse Festival and The First Annual Randy Hall Masters Wooden Stick Lacrosse Tournament <a href="https://indigenousvalues.org/laxweekend19/">#laxweekend19</a>
       - title: 2018
         list: 
-          - Web Developer/Social Media Coordinator, Flourish and Decay: Exploring Religion in Process, Syracuse University Graduate Student Conference, April 13th, 2018
-          - Co-Organizer, Web Developer/Social Media Coordinator. Taking on the Doctrine of Discovery, What are our Next Steps?, August 18-19, 2018, Skä·noñh—Great Law of Peace Center, Liverpool NY in Onondaga Nation Territory. <a href='https://indigenousvalues.org/taking-on-the-doctrine-of-discovery-what-are-our-next-steps/'>link.adjb.co/next</a>
-          - Co-Organizer, Web Developer/Social Media Coordinator. Deyhontsigwa’ehs- The Creator’s Game, Wooden Stick Lacrosse Festival and The First Annual Randy Hall Masters Wooden Stick Lacrosse Tournament <a href='https://indigenousvalues.org/deyhontsigwaehs-the-creators-game-lacrosse-weekend-2018/'>#laxweekend18</a>
+          - >
+            Web Developer/Social Media Coordinator, Flourish and Decay: Exploring Religion in Process, Syracuse University Graduate Student Conference, April 13th, 2018
+          - > 
+            Co-Organizer, Web Developer/Social Media Coordinator. Taking on the Doctrine of Discovery, What are our Next Steps?, August 18-19, 2018, Skä·noñh—Great Law of Peace Center, Liverpool NY in Onondaga Nation Territory. <a href='https://indigenousvalues.org/taking-on-the-doctrine-of-discovery-what-are-our-next-steps/'>link.adjb.co/next</a>
+          - >
+            Co-Organizer, Web Developer/Social Media Coordinator. Deyhontsigwa’ehs- The Creator’s Game, Wooden Stick Lacrosse Festival and The First Annual Randy Hall Masters Wooden Stick Lacrosse Tournament <a href='https://indigenousvalues.org/deyhontsigwaehs-the-creators-game-lacrosse-weekend-2018/'>#laxweekend18</a>
       - title: 2017
         list: 
-          - Co-Organizer, Web Developer/Social Media Coordinator. Deyhontsigwa’ehs- The Creator’s Game, Lacrosse Weekend and Wooden Stick Festival featuring an International Lacrosse Scrimmage between the Iroquois Nationals, Team Israel, and University of Albany Great Danes <a href='https://indigenousvalues.org/lacrosse-weekend/'>#laxweekend17</a>.
-          - Placing the Apocalypse (And Other Genres) Reading Religion across film genre and Ecce Homo | the body makes the man,” The Place of Religion in Film, March 30-April 1, 2017, Syracuse University. <a href='https://digitalcommons.unomaha.edu/jrf/icrf2017.pdf'>Program PDF</a>
+          - >
+            Co-Organizer, Web Developer/Social Media Coordinator. Deyhontsigwa’ehs- The Creator’s Game, Lacrosse Weekend and Wooden Stick Festival featuring an International Lacrosse Scrimmage between the Iroquois Nationals, Team Israel, and University of Albany Great Danes <a href='https://indigenousvalues.org/lacrosse-weekend/'>#laxweekend17</a>.
+          - >
+            Placing the Apocalypse (And Other Genres) Reading Religion across film genre and Ecce Homo | the body makes the man,” The Place of Religion in Film, March 30-April 1, 2017, Syracuse University. <a href='https://digitalcommons.unomaha.edu/jrf/icrf2017.pdf'>Program PDF</a>
       - title: 2016
         list: 
-          - Co-Organizer, Web Developer/Social Media Coordinator, and Panel Chair. Encountering the Unexpected| Glitches, (Dis)placements, & Marginalia, Syracuse University Religion Graduate Student Conference, March 25-26, 2016.
+          - >
+            Co-Organizer, Web Developer/Social Media Coordinator, and Panel Chair. Encountering the Unexpected| Glitches, (Dis)placements, & Marginalia, Syracuse University Religion Graduate Student Conference, March 25-26, 2016.
       - title: 2015
         list: 
           - Organizing Committee. Eastern International Region of the American Academy of Religion, McGill University, May  1-2, 2015.
