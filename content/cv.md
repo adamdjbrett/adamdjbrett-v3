@@ -22,18 +22,27 @@ educations:
       - years: 2022
         text: 
            - Ph.D.Religion. Syracuse University, Department of Religion.
-           - Dissertation <em>Catastrophic Christianity\: An Iconological study of the Messianic Idea in American Protestant Christianity Circa 1900-1940</em>.
+           - "Dissertation <em>Catastrophic Christianity: An Iconological study of the Messianic Idea in American Protestant Christianity Circa 1900-1940</em>".
            - Advisor Dr. <a href='https://artsandsciences.syracuse.edu/people/faculty/braiterman-zachary-j'>Zachary J. Braiterman</a>
-      - years: 2023
+      - years: 2015
+        text: 
+           - M. Phil. Religion. Syracuse University, Department of Religion.
+      - years: 2013
+        text: 
+           -  Certificate of Advanced Studies, Women's and Gender Studies, Syracuse University, Departmen of Women's and Gender Studies. 
+      - years: 2011
+        text: 
+           - Th.M., History and Theology. Brite Divinity School at Texas Christian University.
+           - "Thesis: Archaéological Theology: <del>G-d</del> Beyond God"
+      - years: 2011
         text: 
            - Ph.D. Religion. Syracuse University, Department of Religion.
-           - Dissertation _Catastrophic Christianity: An Iconological study of the Messianic Idea in American Protestant Christianity Circa 1900-1940.
-           - Advisor Dr. <a href='https://artsandsciences.syracuse.edu/people/faculty/braiterman-zachary-j'>Zachary J. Braiterman</a>.
-      - years: 2024
+      - years: 2009
         text: 
            - Ph.D. Religion. Syracuse University, Department of Religion.
-           - Dissertation _Catastrophic Christianity: An Iconological study of the Messianic Idea in American Protestant Christianity Circa 1900-1940.
-           - Advisor Dr. <a href='https://artsandsciences.syracuse.edu/people/faculty/braiterman-zachary-j'>Zachary J. Braiterman</a>
+      - years: 2006
+        text: 
+           - Ph.D. Religion. Syracuse University, Department of Religion.
 
 skills:
     title: Areas of Specialization
@@ -452,7 +461,7 @@ training:
         - 2018 Participant, THATCamp (The Humanities and Technology Camp) at AAR/SBL Unconference <a href='https://twitter.com/hashtag/tcSBLAAR18'>#tcSBLAAR18</a>
         - 2017 Participant, THATCamp (The Humanities and Technology Camp) at AAR/SBL Unconference <a href='https://twitter.com/hashtag/tcAARSBL17'>#tcAARSBL17</a>
         - 2016 Participant, THATCamp (The Humanities and Technology Camp) at AAR/SBL Unconference <a href='https://twitter.com/hashtag/thatcampaarsbl'>#thatcampaarsbl</a>
-        - 2013 Participant, __Global Ecumenical Theological Institute of the World Council of Churches__, in conjunction with the Tenth General Assembly of the _World Council of Churches_, Seoul and Busan, Korea, October 25-November 13, 2013.
+        - 2013 Participant, Global Ecumenical Theological Institute of the World Council of Churches, in conjunction with the Tenth General Assembly of the _World Council of Churches_, Seoul and Busan, Korea, October 25-November 13, 2013.
         - 2011-2022 Syracuse University, Future Professoriate Program
         - 2011 Workshop participant. Overcoming Barriers to Underrepresented Scholarship A Strategy and Action Workshop, Sponsored by the Status of Women in the Profession Committee, Status of Racial and Ethnic Minorities in the Profession Committee, and the Status of LGBTIQ Persons in the Profession Committee, American Academy of Religion, San Francisco, CA., November 18, 2011.
         - 2010 Workshop participant. Learning Goals for Teaching the Bible in the Liberal Arts Curriculum, Wabash Center for Teaching and Learning in Theology and Religion, Society of Biblical Literature, Atlanta, GA., November 20, 2010.
