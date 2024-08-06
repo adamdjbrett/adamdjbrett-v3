@@ -20,11 +20,14 @@ Run demo [https://adamdjbrettv2.netlify.app/](https://adamdjbrettv2.netlify.app/
 3. what is going on with design.md?
 4. cv.md issues
     - educations should be education
-    - italics can I have italics in the front matter please?
-    - lots of white psacing
+    - reduce the amount of whitespace
+    - experience needs three levels of depth to it:
+      - title:
+        - list:
+          - sublist:
     - experience is misaligned
-5. set favicon
-6. reduce menu size
+5. Service needs a sublist as well\
+6. reduce main menu size
 
 ---
 

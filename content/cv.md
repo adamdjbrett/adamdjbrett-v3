@@ -1,7 +1,7 @@
 ---
 layout: layouts/cvdesign.njk
-title: Adam Dj Brett CV
-description: CV of Adam Dj Brett
+title: Adam DJ Brett CV
+description: Adam DJ Brett experience as an educator, coordinator, operations developer, and web administrator.
 
 name: Adam DJ Brett
 image: /assets/img/adam-dj-brett-256x256-min.jpg
@@ -21,30 +21,32 @@ educations:
     items:
       - years: 2022
         text: 
-           - Ph.D.Religion. Syracuse University, Department of Religion.
+           - <em>Ph.D.</em> Religion. <a href="https://artsandsciences.syracuse.edu/religion/" target="_blank" rel="noopener">Syracuse University, Department of Religion</a>.
            - >
-             Dissertation <em>Catastrophic Christianity: An Iconological study of the Messianic Idea in American Protestant Christianity Circa 1900-1940</em>.
+             Dissertation: <em>Catastrophic Christianity: An Iconological study of the Messianic Idea in American Protestant Christianity Circa 1900-1940</em>.
            - Advisor Dr. <a href='https://artsandsciences.syracuse.edu/people/faculty/braiterman-zachary-j'>Zachary J. Braiterman</a>
       - years: 2015
         text: 
-           - M. Phil. Religion. Syracuse University, Department of Religion.
+           - <em>M. Phil.</em> Religion. <a href="https://artsandsciences.syracuse.edu/religion/" target="_blank" rel="noopener">Syracuse University, Department of Religion</a>.
       - years: 2013
         text: 
-           -  Certificate of Advanced Studies, Women's and Gender Studies, Syracuse University, Departmen of Women's and Gender Studies. 
+           -  <em>Certificate of Advanced Studies</em>, Women's and Gender Studies, <a href="https://artsandsciences.syracuse.edu/womens-and-gender-studies/" target="_blank" rel="noopener">Syracuse University, Department of Women's and Gender Studies</a>. 
       - years: 2011
         text: 
-           - Th.M., History and Theology. Brite Divinity School at Texas Christian University.
+           - <em>Th.M.</em>, History and Theology. <a href="https://brite.edu/" target="_blank" rel="noopener">Brite Divinity School</a> at <a href="https://tcu.edu/" target="_blank" rel="noopener">Texas Christian University</a>.
            - >
-             <em>Archaéological Theology: <del>G-d</del> Beyond God</em>
+             Thesis: <em>Archaéological Theology: <del>G-d</del> Beyond God</em>
       - years: 2011
         text: 
-           - Ph.D. Religion. Syracuse University, Department of Religion.
+           - <em>Gradaute Certificate</em>, Women's and Gender Studies. <a href="https://tcu.edu/" target="_blank" rel="noopener">Texas Christian University</a>, Women's and Gender Studies.
       - years: 2009
         text: 
-           - Ph.D. Religion. Syracuse University, Department of Religion.
+           - <em>M.T.S</em>, Theology and Culture. <a href="https://brite.edu/" target="_blank" rel="noopener">Brite Divinity School</a> at <a href="https://tcu.edu/" target="_blank" rel="noopener">Texas Christian University</a>. <br />
+           - > 
+             Thesis: <em>A Critical Study of Postmodern Theologizing: Examining Myth and Theology in</em> The Little Prince.
       - years: 2006
         text: 
-           - Ph.D. Religion. Syracuse University, Department of Religion.
+           - <em>B.A.</em>, History and Biblical Studies, Warner University.
 
 skills:
     title: Areas of Specialization
@@ -83,7 +85,7 @@ teaching:
       list:
       - 2024-Spring Religion and Society (Religious Studies 2030)
       - 2023-Fall Introduction to World Religions (Religious Studies 1030)
-    - title: University, Instructor
+    - title: Syracuse University, Instructor
       list:
       - 2023-Fall Religion and Sports, 8-week Online (Religion 103)
       - 2022-Summer Religion and Sports, Online (Religion 103)
@@ -130,7 +132,7 @@ teaching:
       - 2021 MTSU Tennessee History class invited lecture on 'Cherokee Ball Game, Treaties and Indigenous Resistance', taught by Dr. James V. Holton, Spring 2021. 2x.
       - 2020 MTSU Tennessee History class invited lecture on 'Religion, Authority, and the Scopes Trial', taught by Dr. James V. Holton, Fall 2020. 2x.
       - 2020 MTSU Modern U.S. History class invited lecture on 'Religion, Racism, and The Olympics', taught by Dr. James V. Holton, 2 sections, Fall 2020. 2
-      - 2020 Gladden Podcast Episode 10, hosted by D. Garmondyu Whorway: Embracing the nocode movement and creating an online portfolio
+      - 2020 Gladden Podcast Episode 10, hosted by D. Garmondyu Whorway, Embracing the nocode movement and creating an online portfolio
       - 2018 Syracuse University First Year Forum (CAS 101), taught by Dr. Ahmed Abdel Meguid, Fall, 2018. I did a series of three lectures on Christianity and the Enlightenment.
       - 2015 Syracuse University Pop Culture Studies Radio. Musics & Audio Cultures (Television Radio Film 530) taught by Dr. Jenny Doctor, Spring. 2015. I lectured on Aimee Semple McPherson and the Development of Radio
       - 2013 Syracuse University Pop Culture Studies Radio. Musics & Audio Cultures (Television Radio Film 530) taught by Dr. Jenny Doctor, Spring. 2013. I lectured on Aimee Semple McPherson and the Development of Radio
@@ -207,7 +209,7 @@ experience:
       - title: 2018
         list: 
           - Webmaster (2015-2018)
-          - Syracuse University, Department of Religion <a href='https://thecollege.syr.edu/religion/'>thecollege.syr.edu/religion</a>
+          - <a href="https://artsandsciences.syracuse.edu/religion/" target="_blank" rel="noopener">Syracuse University, Department of Religion</a> <a href='https://thecollege.syr.edu/religion/'>thecollege.syr.edu/religion</a>
           - Syracuse University, Jewish Studies <a href='http://jsp.syr.edu'>jsp.syr.edu</a>
           - Syracuse University Women in Science and Engineering, Summer 2018 <a href='http://suwise.syr.edu'>suwise.syr.edu</a>
           - Website Advisor and Event Coordination (Summer 2018)
@@ -247,8 +249,8 @@ experience:
       - title: 2008-11
         list: 
           - Webmaster and Social Media Manager, _Unfinished Lives | Remembering LGBT Hate Crime Victims_ a book and blog by Dr Steve Sprinkle <a href='https://unfinishedlivesblog.com/'>unfinishedlivesblog.com</a>.
-          - Graduate Assistant, Prof. Dr. Namsoon Kang, Brite Divinity School.
-          - Student Assistant, Technology Resources, Brite Divinity School.
+          - Graduate Assistant, Prof. Dr. Namsoon Kang, <a href="https://brite.edu/" target="_blank" rel="noopener">Brite Divinity School</a>.
+          - Student Assistant, Technology Resources, <a href="https://brite.edu/" target="_blank" rel="noopener">Brite Divinity School</a>.
       - title: 2004-06
         list: 
           - Web Administrator, Warner University
@@ -313,7 +315,7 @@ service:
           - University Senate, Senator at Large.
           - Graduate Student Organization, Senator at Large.
           - Religion Graduate Student Organization, Co-president.
-      - title: Brite Divinity School at Texas Christian University
+      - title: <a href="https://brite.edu/" target="_blank" rel="noopener">Brite Divinity School</a> at <a href="https://tcu.edu/" target="_blank" rel="noopener">Texas Christian University</a>
         list: 
           - 2008-11
           - Member, Theology Theory Group
@@ -420,8 +422,8 @@ presentations:
       - title: 2011
         list: 
          - Playing with Negative Theology Reading Derrida's ‘Structure, Sign, and Play,’ Annual meeting of NABPR (National Association of Baptist Professors of Religion) Gardner–Webb University, May 22, 2011.
-         - Advanced Program Student Getting a Job Workshop, co-presented with Loren D.J. Baxter, Brite Divinity School at Texas Christian University, March, 26, 2011.
-         - Sticks And Stones Will Break Your Bones But iPhones Will Kill You A Response to Dr. Kwok Pui Lan’s _Fishing The Asia Pacific Transnationalism And Feminist Theology_,” Student Colloquy with Kwok Pui Lan, Brite Divinity School Texas Christian University, March 7, 2011.
+         - Advanced Program Student Getting a Job Workshop, co-presented with Loren D.J. Baxter, <a href="https://brite.edu/" target="_blank" rel="noopener">Brite Divinity School</a> at <a href="https://tcu.edu/" target="_blank" rel="noopener">Texas Christian University</a>, March, 26, 2011.
+         - Sticks And Stones Will Break Your Bones But iPhones Will Kill You A Response to Dr. Kwok Pui Lan’s _Fishing The Asia Pacific Transnationalism And Feminist Theology_,” Student Colloquy with Kwok Pui Lan, <a href="https://brite.edu/" target="_blank" rel="noopener">Brite Divinity School</a> <a href="https://tcu.edu/" target="_blank" rel="noopener">Texas Christian University</a>, March 7, 2011.
       - title: 2010
         list: 
          - _The Little Prince_ as Theologian, Annual meeting of NABPR (National Association of Baptist Professors of Religion) McAfee School of Theology (Mercer University), Atlanta, Ga, May 23-26, 2010.
@@ -442,10 +444,10 @@ awards:
          - Theta Chi Beta Religion Honor Society (ΘΧΒ). Syracuse University Religion Honor Society and chapter of National Honor Society Theta Alpha Kappa (ΘΑΚ)
       - title: 2010
         text: 
-         - Book Award for Asian (Korean) Church Studies Program, Brite Divinity School at Texas Christian University
+         - Book Award for Asian (Korean) Church Studies Program, <a href="https://brite.edu/" target="_blank" rel="noopener">Brite Divinity School</a> at <a href="https://tcu.edu/" target="_blank" rel="noopener">Texas Christian University</a>
       - title: 2009
         text: 
-         - Book Award for Theology, Brite Divinity School at Texas Christian University
+         - Book Award for Theology, <a href="https://brite.edu/" target="_blank" rel="noopener">Brite Divinity School</a> at <a href="https://tcu.edu/" target="_blank" rel="noopener">Texas Christian University</a>
       - title: 2006
         text: 
          - Alpha Chi (National College Honor Society), Warner University
