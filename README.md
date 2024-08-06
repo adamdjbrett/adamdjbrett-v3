@@ -12,6 +12,20 @@ Run demo [https://adamdjbrettv2.netlify.app/](https://adamdjbrettv2.netlify.app/
 
 + Migration from jekyll to 11ty `V.3.0.0-alpha.13`
 
+### v2 issue tracker
+1. Front matter issues
+    1. is canonical_url on posts working?
+    2. is exclude: yes or no working?
+2. check bots.yml
+3. what is going on with design.md?
+4. cv.md issues
+    - educations should be education
+    - italics can I have italics in the front matter please?
+    - lots of white psacing
+    - experience is misaligned
+5. set favicon
+6. reduce menu size
+
 ---
 
 ## ✨ Features :

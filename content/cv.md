@@ -22,7 +22,7 @@ educations:
       - years: 2022
         text: 
            - Ph.D.Religion. Syracuse University, Department of Religion.
-           - Dissertation _Catastrophic Christianity: An Iconological study of the Messianic Idea in American Protestant Christianity Circa 1900-1940.
+           - Dissertation <em>Catastrophic Christianity\: An Iconological study of the Messianic Idea in American Protestant Christianity Circa 1900-1940</em>.
            - Advisor Dr. <a href='https://artsandsciences.syracuse.edu/people/faculty/braiterman-zachary-j'>Zachary J. Braiterman</a>
       - years: 2023
         text: 
