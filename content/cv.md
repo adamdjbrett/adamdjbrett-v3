@@ -269,15 +269,16 @@ activities:
           - Conference organizing, video editing, closed captioning, Thematic Discussion Group Moderator, panel chair for New Books in the Study of Domination.
       - title: 2020
         list: 
-          - Mother Earth’s Pandemic The Doctrine of Discovery <a href='https://indigenousvalues.org/mother-earths-pandemic/'>indigenousvalues.org/mother-earths-pandemic/</a>
-          - Conference organizing, video editing, closed captioning, Thematic Discussion Group Moderator<br/>
-          - Ways of Knowing, A Fundraising Gala for the Skä•noñh - Great Law of Peace Center <a href='http://web.archive.org/web/20200322051959/https://www.waysofknowingskanonh.org/'>waysofknowingskanonh.org</a>
+          - Mother Earth’s Pandemic The Doctrine of Discovery <a href="https://indigenousvalues.org/mother-earths-pandemic/">indigenousvalues.org/mother-earths-pandemic/</a>
+          - Conference organizing, video editing, closed captioning, Thematic Discussion Group Moderator
+          - > 
+            Ways of Knowing, A Fundraising Gala for the Skä•noñh - Great Law of Peace Center <a href="http://web.archive.org/web/20200322051959/https://www.waysofknowingskanonh.org/">waysofknowingskanonh.org</a>
       - title: 2019
         list: 
-          - Co-Organizer, Web Developer/Social Media Coordinator. Deyhontsigwa’ehs- The Creator’s Game, Wooden Stick Lacrosse Festival and The First Annual Randy Hall Masters Wooden Stick Lacrosse Tournament <a href='https://indigenousvalues.org/laxweekend19/">#laxweekend19</a>
+          - Co-Organizer, Web Developer/Social Media Coordinator. Deyhontsigwa’ehs- The Creator’s Game, Wooden Stick Lacrosse Festival and The First Annual Randy Hall Masters Wooden Stick Lacrosse Tournament <a href="https://indigenousvalues.org/laxweekend19/">#laxweekend19</a>
       - title: 2018
         list: 
-          - Web Developer/Social Media Coordinator, Flourish and Decay: Exploring Religion in Process, Syracuse University Graduate Student Conference, April 13th, 2018<br/>
+          - Web Developer/Social Media Coordinator, Flourish and Decay: Exploring Religion in Process, Syracuse University Graduate Student Conference, April 13th, 2018
           - Co-Organizer, Web Developer/Social Media Coordinator. Taking on the Doctrine of Discovery, What are our Next Steps?, August 18-19, 2018, Skä·noñh—Great Law of Peace Center, Liverpool NY in Onondaga Nation Territory. <a href='https://indigenousvalues.org/taking-on-the-doctrine-of-discovery-what-are-our-next-steps/'>link.adjb.co/next</a>
           - Co-Organizer, Web Developer/Social Media Coordinator. Deyhontsigwa’ehs- The Creator’s Game, Wooden Stick Lacrosse Festival and The First Annual Randy Hall Masters Wooden Stick Lacrosse Tournament <a href='https://indigenousvalues.org/deyhontsigwaehs-the-creators-game-lacrosse-weekend-2018/'>#laxweekend18</a>
       - title: 2017
