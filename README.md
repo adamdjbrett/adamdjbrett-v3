@@ -14,10 +14,8 @@ Run demo [https://adamdjbrettv2.netlify.app/](https://adamdjbrettv2.netlify.app/
 
 ### v2 issue tracker
 1. Front matter issues
-    1. is canonical_url on posts working?
     2. is exclude: yes or no working?
-2. check bots.yml
-3. what is going on with design.md?
+2. how are we exlcuding bots?
 4. cv.md issues
     - educations should be education
     - reduce the amount of whitespace
@@ -26,8 +24,8 @@ Run demo [https://adamdjbrettv2.netlify.app/](https://adamdjbrettv2.netlify.app/
         - list:
           - sublist:
     - experience is misaligned
-5. Service needs a sublist as well\
-6. reduce main menu size
+    - Service needs a sublist as well
+6. how do I edit main menu?
 
 ---
 
