@@ -4,7 +4,8 @@ description: "The 2024 Restore Our Sacred Lake 5K and Haudenosaunee Wooden Stick
 image: "/assets/img/posters/WSF-and-Restore-Our-Lake.png"
 date: 2024-08-07
 tags:
-  - event
+  - lacrosse
+  - running
 ---
 ![2024 Event Poster](/img/posters/2024-5K-and-WSF-1.png)
 
