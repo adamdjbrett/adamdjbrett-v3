@@ -1,7 +1,7 @@
 ---
-title: Mapping the Doctrine of Discovery Podcast
+title: Doctrine of Christian Discovery Podcast
 description: The podcast explores how a centuries-old Christian doctrine encouraged conquest and colonization of non-Christians -- and how its legacies still affect various lands and peoples.
-image: "/assets/img/doctrine-christian-discovery.webp"
+image: /assets/img/doctrine-christian-discovery.webp
 date: 2024-08-07
 tags:
   - podcast
