@@ -246,7 +246,7 @@ collections:
     editor:
       preview: false
     files:
-     - file: "content/design.md"
+     - file: "content/gallery.md"
        label: "Update Gallery Page Area"
        name: "gallery"
        widget: list
