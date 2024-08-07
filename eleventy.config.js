@@ -20,7 +20,7 @@ export default async function(eleventyConfig) {
 		.addPassthroughCopy({
 			"./public/": "/",
 		// activate this if you need to create fetch loop galleries image see on add by creativitas information
-		//	"./galleries/": "/gallery/galleries/",
+		//	"./galleries/": "/design/galleries/",
 			"./node_modules/prismjs/themes/prism-okaidia.css": "/css/prism-okaidia.css"
 		})
 		.addPassthroughCopy("./content/feed/pretty-atom-feed.xsl");
@@ -74,7 +74,7 @@ export default async function(eleventyConfig) {
 // add by creativitas
 
 // static site fetch for image galleries - create new folder galleries on root and upload your image there..
-// Next you can create new markdown files on content folder and name it gallery.md use layout : layout/gallery.njk
+// Next you can create new markdown files on content folder and name it gallery.md use layout : layout/design.njk
 //  eleventyConfig.addPassthroughCopy({"/galleries/*": "galleries"});
 //  eleventyConfig.addFilter("galleries", function (dir="") {
 //    return fg.sync(dir);

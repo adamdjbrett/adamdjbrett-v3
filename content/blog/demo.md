@@ -90,7 +90,7 @@ https://open.spotify.com/show/5VoYjujmNFCYS89vSsgl1c
 
 ### Image Gallery
 
-Example image lightbox gallery [/gallery/](/gallery/)
+Example image lightbox gallery [/design/](/design/)
 
 -----
 

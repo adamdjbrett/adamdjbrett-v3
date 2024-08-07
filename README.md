@@ -294,7 +294,7 @@ Open `_data/metadata.json`
 	// navbar dropdown accesskey here...
       "key": "g",
 	// URL Link for this navbar
-      "link": "/gallery"
+      "link": "/design"
      }
   ],
 
@@ -578,7 +578,7 @@ contact: "GOT AN INTERESTING PROJECT? TELL ME MORE...💬"
 
 ### 📷 Gallery Page
 
-Open `content/gallery.md`
+Open `content/design.md`
 
 Update SEO for gallery Page
 

@@ -1,5 +1,5 @@
 ---
-layout: layouts/gallery.njk
+layout: layouts/design.njk
 title: "Adam DJ Brett Galleries"
 image: ""
 description: "Gallery of the Posters and Flyers by Adam DJ Brett"
@@ -80,42 +80,126 @@ galleries:
   - title: "2017 careers in industry for STEM Graduate Students"
     image: /assets/img/posters/2017-careers-in-industry-for-STEM-Graduate-Students.gif
     order: 25
+  - title: "2017 Scrimmage old"
+    image: /assets/img/posters/2017-carrier-dome-scrimmage-update.jpg
+    order: 26  
   - title: "2017 carrier dome scrimmage"
     image: /assets/img/posters/2017-carrier-dome-scrimmage-update.jpg
-    order: 26
+    order: 27
   - title: "2017 carrier dome tix"
     image: /assets/img/posters/2017-carrier-dome-tix.jpg
-    order: 27
+    order: 28
   - title: "2017 carrier dome update"
     image: /assets/img/posters/2017-carrier-dome-update-fb.jpg
-    order: 28
+    order: 29
   - title: "2017 nabpr boston meeting"
     image: /assets/img/posters/2017-nabpr-boston-meeting.jpg
-    order: 29
+    order: 30
   - title: "2017 Norma Slepecky Memorial Lecture"
     image: /assets/img/posters/2017-Norma-Slepecky-Memorial-Lecture-rev3.gif
-    order: 30
+    order: 31
   - title: "2017 Syracuse AAR SBL invitation"
     image: /assets/img/posters/2017-Syracuse-AAR-SBL-invitation-min.jpg
-    order: 31
+    order: 32
   - title: "2017 syracuse why study religion"
     image: /assets/img/posters/2017-syracuse-why-study-religion.jpg
-    order: 32
+    order: 33
   - title: "2017 the place of religion"
     image: /assets/img/posters/2017-the-place-of-religion--portrait-flyer-digital-01.jpg
-    order: 33
+    order: 34
   - title: "2017 why study religion open house"
     image: /assets/img/posters/2017-why-study-religion-open-house.jpg
-    order: 34
+    order: 35
   - title: "2018 stephanie"
     image: /assets/img/posters/2018-stephanie-flyer.jpg
-    order: 35
+    order: 36
   - title: "2018 stephanie wyatt"
     image: /assets/img/posters/2018-stephanie-wyatt-header.jpg
-    order: 36
-  - title: "2020 Haudenosaunee women influence"
-    image: /assets/img/posters/2020-Haudenosaunee-women-influence-web.jpg
     order: 37
+  - title: "2018 Stephanie Course Flyer"
+    image: /assets/img/posters/2018-stephanie-ABC-flyer
+    order: 38
+  - title: "2018 Wooden Stick Festival"
+    image: /assets/img/posters/2018-laxweekend18-sticksup.jpg  
+    order: 38
+  - title: "2018 Wooden Stick Festival alt"
+    image: /assets/img/posters/2018-Deyhontsigwaehs-main-flyer-alternate-logo2.png
+    order: 39
+  - title: "2018 Doctrine of Discovery Flyer"
+    image: /assets/img/posters/2018-doctrine-of-discovery-flyer-min-scaled.jpg
+    order: 40  
+  - title: "2019 Honor Oren Lyons"
+    image: /assets/img/posters/2019-honor-oren-lyons.png
+    order: 41
+  - title: "2019 Workshop"
+    image: /assets/img/posters/2019-Haudenosaunee-enviroment-training.png
+    order: 41
+  - title: "2019 Haudenosaune Olympics Fundraiser"
+    image: /assets/img/posters/2019-HNLxIL-event-Artboard-1.png
+    order: 42
+  - title: "2019 Panel at Syracuse University"
+    image: /assets/img/posters/2019-haudenosaunee.jpg
+    order: 43  
+  - title: "2020 Haudenosaunee Women's Influence"
+    image: /assets/img/posters/2020-Haudenosaunee-women-influence-web.jpg
+    order: 44
+  - title: "AILA Banner"
+    image: /assets/img/2020-aila-banner.png
+    order: 45
+  - title: "2020 Haudensoaunee Women's influence Facebook"
+    image: /assets/img/posters/2020-Haudenosaunee-Womens-Influence-Facebook.png
+    order: 46
+  - title: "Mother Earth's Pandemic"
+    image: /assets/img/posters/2020-mother-earth-pandemic.png
+    order: 47    
+  - title: "2020 Ways of Knowing"
+    image: /assets/img/posters/2020-waysofkonwing.jpg
+    order: 48   
+  - title: "2021 Land Acknolwedgement Event"
+    image: /assets/img/posters/2021-land-acknowledgements-event.png
+    order: 49  
+  - title: "2023 APSU Religion and World"
+    image: /assets/img/posters/2023-apsu-religion-world.png
+    order: 50  
+  - title: "2023 Federal Anti-Indian Law Panel"
+    image: /assets/img/posters/2023-Federal-Anti-Indian-Law-Panel.png
+    order: 51  
+  - title: "2023 Language is Life panel"
+    image: /assets/img/posters/2023-Land-is-Language--Language-is-Life.png
+    order: 52  
+  - title: "2023 Religious Origins of White Supremacy Flyer"
+    image: /assets/img/posters/2023-Religious-Origins-of-White-Supremacy-Flyer.png
+    order: 53  
+  - title: "2023 Religious Origins of White Supremacy Banner"
+    image: /assets/img/posters/2023-Religious-Origins-of-White-Supremacy-banner.jpg
+    order: 54  
+  - title: "2023 Conference Poster Large"
+    image: /assets/img/posters/2023-conference-poster-large.jpg
+    order: 55  
+  - title: "domination word cloud"
+    image: /assets/img/posters/2024-Acknowledging-Doctrine-Christian-Domination-wordcloud.jpg
+    order: 56  
+  - title: "Organization of American States Event"
+    image: /assets/img/posters/2024-OAS-Event.png
+    order: 57  
+  - title: "Mapping the Doctrine of Discovery Promotional Image"
+    image: /assets/img/posters/2024-Podcast-S04E06.png
+    order: 58  
+  - title: "MTSU Religion and Society"
+    image: /assets/img/posters/2024-MTSU-Religion-Society.png
+    order: 59  
+  - title: "2024 MTSU Bible"
+    image: /assets/img/posters/2024-MTSU-Bible.png
+    order: 60  
+  - title: "Mapping the Doctrine of Discovery Podcast Postcard"
+    image: /assets/img/posters/2024-mapping-doctrine-discovery-postcard-01.png
+    order: 61  
+  - title: "Mapping the Doctrine of Discovery Podcast Postcard"
+    image: /assets/img/posters/2024-mapping-doctrine-discovery-postcard-02.png
+    order: 62  
+  - title: "2024 Wooden Stick Festival"
+    image: /assets/img/posters/2024-5K-and-WSF-1.png
+    order: 63 
 permalink: "/design/"
 ---
 ## List of Posters and Flyers
@@ -151,3 +235,34 @@ permalink: "/design/"
   - Open House Facebook Cover Photos
 * 2017 Promotional images for the Deyhontsigwa’ehs- The Creator’s Game, Lacrosse Weekend hosted by [Indigenous Values Initiative](http://indigenousvalues.org), Lacrosse AllStars, Nike N7, & Onondaga Nation.
 * 2017 Invitation to the Syracuse University Department of Religion Reception at the American Academy of Religion/Society of Biblical Literature meeting in Boston.
+* 2018 Haudenosaunee Wooden Stick Festival
+* 2018 Flyer for ABC-USA Bible Course
+* 2018 Stephanie Wyatt Website Header
+* 2028 Flyer for ABC-USA Bible Course expanded
+* 2018 Wooden Stick Festival
+- 2018 Wooden Stick Festival alt
+- 2018 Doctrine of Discovery Conference Flyer
+- 2019 Honor Oren Lyons Website
+- 2019 Haudenosuanee Environmental Training Workshop
+- 2019 Haudenosaune Olympics Fundraiser
+- 2019 Panel at Syracuse University
+- 2020 Haudenosaunee Women's Influence
+- 2020 AILA Banner
+- 2020 Haudenosaunee Women's influence Facebook"
+- 2020 Mother Earth's Pandemic
+- 2020 Ways of Knowing
+- 2021 Land Acknolwedgement Event"
+- 2023 APSU Religion and World
+- 2023 Federal Anti-Indian Law Panel
+- 2023 Language is Life panel"
+- 2023 Religious Origins of White Supremacy Flyer"
+- 2023 Religious Origins of White Supremacy Banner"
+- 2023 Conference Poster Large"
+- 2023 Word Cloud
+- 2024 Organization of American States Event
+- 2024 Mapping the Doctrine of Discovery Promotional Image
+- 2024 MTSU Religion and Society
+- 2024 MTSU Bible
+- 2024 Mapping the Doctrine of Discovery Podcast Postcard front of postcard modified veersion of Jordan Loewen-Colon's original design concept for the podcast
+- 2024 Mapping the Doctrine of Discovery Podcast Postcard back of postcard by me.
+- 2024 Wooden Stick Festival
