@@ -1,5 +1,5 @@
 ---
-layout: layouts/design.njk
+layout: layouts/gallery.njk
 title: "Adam DJ Brett Galleries"
 image: ""
 description: "Gallery of the Posters and Flyers by Adam DJ Brett"
