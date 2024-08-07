@@ -1,7 +1,7 @@
 ---
 title: "The Restore Our Sacred Lake 5K and Haudenosaunee Wooden Stick Festival"
 description: "The 2024 Restore Our Sacred Lake 5K and Haudenosaunee Wooden Stick Festival Weekend September 14th and 15th at Onondaga Lake Park"
-image: "/assets/img/posters/WSF-and-Restore-Our-Lake.png"
+image: /assets/img/posters/WSF-and-Restore-Our-Lake.png
 date: 2024-08-07
 tags:
   - lacrosse
