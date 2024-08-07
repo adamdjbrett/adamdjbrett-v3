@@ -116,7 +116,7 @@ galleries:
   - title: "2020 Haudenosaunee women influence"
     image: /assets/img/posters/2020-Haudenosaunee-women-influence-web.jpg
     order: 37
-permalink: "gallery/"
+permalink: "/design/"
 ---
 ## List of Posters and Flyers
 * 2009 Diversity and Social Justice Lecture by Dr. Lester Ruiz of ATS at Brite Divinity School, Texas Christian University
