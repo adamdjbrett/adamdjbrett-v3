@@ -75,16 +75,17 @@ exams:
 teaching:
    title: Teaching Experience
    text: 
+    - title: Middle Tennessee State University, Adjunct Instructor
+      list:
+      - History of Christianity Course Design and Development. An MTEngage Certified Course (Religious Studies 3040)
+      - 2024-Spring Religion and Society (Religious Studies 2030)
+      - 2023-Fall Introduction to World Religions (Religious Studies 1030)
     - title: Austin Peay State University, Adjunct Instructor
       list:
       - 2024-Spring Religion & The World, Online 2 sections (Philosophy 2200)
       - 2023-Fall Religion & The World (Philosophy 2200)
       - 2023-Fall Western Religions (Philosophy 3300)
       - 2023-Summer Religion & The World, Online (Philosophy 2200)
-    - title: Middle Tennessee State University, Adjunct Instructor
-      list:
-      - 2024-Spring Religion and Society (Religious Studies 2030)
-      - 2023-Fall Introduction to World Religions (Religious Studies 1030)
     - title: Syracuse University, Instructor
       list:
       - 2023-Fall Religion and Sports, 8-week Online (Religion 103)
