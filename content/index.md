@@ -1,11 +1,11 @@
 ---
 layout: layouts/home.njk
 title: "Adam DJ Brett"
-description: "Web Developer Adam Dj Brett"
+description: "Web Developer Adam DJ Brett"
 header:
- intro: "I’M A DEVELOPER, DIGITAL ARTIST, CONSULTANT AND A BUNCH OF OTHER IMPRESSIVE TITLES AND BUZZ WORDS."
- text: "This is my info—I’m sharing it all this with ya’ll to impress you with all the hard work I’ve done in the past few years. Once you’re impressed, you can continue to scroll down to see more details and credentials about me."
+ intro: "I’M A EDUCATOR, RESEARCHER, OPERATIONS MANAGER, AND A WEB DEVELOPER."
+ text: "I love  listening, learning, sharing, and hearing stories. Since 2016 I have been working with the American Indian Law Alliance (AILA). This work is challening and breaks me great joy. In 2022 I received my Ph.D. in religion from Syracuse University. I am passionate about researching and teaching the histories of the Doctrine of Discovery."
 form: 
- title: "GOT AN INTERESTING PROJECT? TELL ME MORE...💬"
+ title: "WWHAT IS YOUR STORY? TELL ME MORE...💬"
  button: "Submit 🚀"
 ---

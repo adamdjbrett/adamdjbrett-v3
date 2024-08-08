@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="315.37332"
+   height="434.17334"
+   viewBox="0 0 315.37332 434.17334"
+   sodipodi:docname="SYRACUSE_BlockS_ORANGE_RGB.eps"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="ink_ext_XXXXXX"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,434.17333)">
+    <g
+       id="g10"
+       transform="scale(0.1)">
+      <path
+         d="m 1559.43,2224.78 c 41.66,0 764.24,0.1 805.9,0.1 v 587.36 c -13.29,12.68 -450.16,432 -462.72,444.1 H 447.715 C 435.063,3243.81 12.8008,2825.11 0,2812.33 V 1734.96 c 12.5039,-12.63 416.957,-422.03 429.637,-434.8 H 1559.43 V 675.41 h -746.7 v 356.13 c -41.73,0 -771.0581,0 -812.73,-0.05 L 0,444.039 C 12.7461,431.32 435.063,12.5391 447.715,-0.0117188 H 1902.61 C 1915.17,12.0898 2352.04,431.422 2365.33,444.242 V 1521.37 c -12.48,12.68 -416.94,422.07 -429.67,434.91 H 812.73 v 624.68 h 746.7 v -356.18"
+         style="fill:#f2571a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path12" />
+    </g>
+  </g>
+</svg>

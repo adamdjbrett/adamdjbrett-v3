@@ -65,7 +65,7 @@
      },
      {
       "nav": "CONSULTING",
-      "key": "l",
+      "key": "2",
       "link": "/consulting/"
      }
   ],
@@ -76,19 +76,19 @@
       "nav": "Visit my Mastodon",
       "key": "m",
       "icon": "mastodon",
-      "link": "https://mastodon.social/@creativitas"
+      "link": "https://hcommons.social/@adjb"
      },
      {
       "nav": "Visit my Twitter",
       "key": "t",
       "icon": "twitter-x",
-      "link": "/"
+      "link": "https://x.com/__adjb"
      },
      {
-      "nav": "Visit My Facebook",
-      "key": "f",
-      "icon": "facebook",
-      "link": "/"
+      "nav": "Visit My Linkedin",
+      "key": "l",
+      "icon": "Linkedin",
+      "link": "https://www.linkedin.com/in/adamdjbrett/"
      }
   ],
 
@@ -103,22 +103,22 @@
   },
 
   "author": {
-    "name": "Adam Dj Brett",
-    "email": "adj@email.com",
+    "name": "Adam DJ Brett",
+    "email": "info@adamdjbrett.com",
     "url": "https://www.adamdjbrett.com"
   },
 
   "company": {
-    "founding": "2007",
-    "city": "Augusta, GA 30815, USA",
+    "founding": "2002",
+    "city": "Nashville, TN 37209, USA",
     "name": "Adam DJ Brett",
-    "phonecall": "18501235021",
-    "phone": "850-123-5021",
+    "phonecall": "+18177600292",
+    "phone": "817-760-0292",
     "businesshours": "Available 24/7",
-    "googlereview": "https://g.page/r/CcNh4bCJxK99EBE/review",
-    "address": "4100 Broxton Court - Hephzibah",
-    "maplink": "https://maps.app.goo.gl/evroidhXw8zvsc6P7",
-    "email": "admin@adamdjbrett.com"
+    "googlereview": "https://www.google.com/",
+    "address": "6339 Charlotte Pike #532 - Virtual",
+    "maplink": "https://maps.app.goo.gl/5vo9ANBVsBaDuuFd7",
+    "email": "info@adamdjbrett.com"
   },
 
   "project": {
@@ -136,7 +136,7 @@
   },
 
   "footer": {
-    "text1": "Copyrights",
+    "text1": "(CC BY 4.0) License",
     "text2": "Adam DJ Brett",
     "link": "https://www.adamdjbrett.com"
   }
