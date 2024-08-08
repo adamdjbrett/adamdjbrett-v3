@@ -376,20 +376,21 @@ scholarship:
 collaborative:
     title: Collaborative Digital Humanities Research Projects
     text: 
-      - "Executive Producer, Doctrine of Christian Discovery Podcast Limited Series, <a href='https://goodfaithmedia.org/doctrine-of-christian-discovery/'>link.adjb.co/docd</a>"
-      - "Academic Collaborative Member, Web Developer, Doctrine of Discovery Project <a href='https://doctrineofdiscovery.org'>doctrineofdiscovery.org</a>, (2017-present)"
-      - "Co-Producer, Mapping the Doctrine of Discovery A Podcast <a href='https://podcast.doctrineofdiscovery.org'>podcast.doctrineofdiscovery.org</a>, (2022-present)"
-      - "Web Developer, Then and Now Project three case studies of dispossession (2020-present)"
-      - "Then and now Project <a href='https://thenandnow.us/'>thenandnow.us</a>"
-      - "Sullivan-Clinton Campaign <a href='https://sullivanclinton.com/'>sullivanclinton.com</a>"
-      - "Derry Veagh Evictions <a href='https://derryveagh.com/'>derryveagh.com</a>"
-      - "Staked Plains/Palo Duro Canyon <a href='https://stakedplains.com/'>stakedplains.com</a>"
-      - "Creator, Religious Studies Blog RSS Aggregator <a href='https://rs-rss.com/'>rs-rss.com</a>, (2024-Present)"
-      - "Creator Religious Studies Podcasts RSS Aggregator <a href='https://podcasts.rs-rss.com'>podcasts.rs-rss.com</a>, (2024-Present)"
-      - "Creator Religion Call for Papers <a href='https://relcfp.com'>relcfp.com</a>, (2011-present)"
-      - "Data Analysis of the Syracuse University Department of Religion Undergraduate Program. Research Assistant to Dr. Gareth Fisher (2016)"
-      - "Web Developer, World Conference of Associated Theological Institutions (WOCATI) <a href='https://wocati.org'>wocati.org</a>, (2011-19)"
-      - "Research Assistant to Dr. Namsoon Kang and WOCATI for the open access book Challenges and Promises of Quality Assurance in Theological Education: Multicontextual and Ecumenical Inquires <a href='https://wocati.org/challenges/'>wocati.org/challenges</a> (2013)."
+      - title: "Executive Producer, Doctrine of Christian Discovery Podcast Limited Series, <a href='https://goodfaithmedia.org/doctrine-of-christian-discovery/'>link.adjb.co/docd</a>"
+      - title: "Academic Collaborative Member, Web Developer, Doctrine of Discovery Project <a href='https://doctrineofdiscovery.org'>doctrineofdiscovery.org</a>, (2017-present)"
+      - title: "Co-Producer, Mapping the Doctrine of Discovery A Podcast <a href='https://podcast.doctrineofdiscovery.org'>podcast.doctrineofdiscovery.org</a>, (2022-present)"
+      - title: "Web Developer, Then and Now Project three case studies of dispossession (2020-present)"
+        content:
+        - info: "Then and now Project <a href='https://thenandnow.us/'>thenandnow.us</a>"
+        - info:  "Sullivan-Clinton Campaign <a href='https://sullivanclinton.com/'>sullivanclinton.com</a>"
+        - info:  "Derry Veagh Evictions <a href='https://derryveagh.com/'>derryveagh.com</a>"
+        - info:  "Staked Plains/Palo Duro Canyon <a href='https://stakedplains.com/'>stakedplains.com</a>"
+      - title: "Creator, Religious Studies Blog RSS Aggregator <a href='https://rs-rss.com/'>rs-rss.com</a>, (2024-Present)"
+      - title: "Creator Religious Studies Podcasts RSS Aggregator <a href='https://podcasts.rs-rss.com'>podcasts.rs-rss.com</a>, (2024-Present)"
+      - title: "Creator Religion Call for Papers <a href='https://relcfp.com'>relcfp.com</a>, (2011-present)"
+      - title: "Data Analysis of the Syracuse University Department of Religion Undergraduate Program. Research Assistant to Dr. Gareth Fisher (2016)"
+      - title: "Web Developer, World Conference of Associated Theological Institutions (WOCATI) <a href='https://wocati.org'>wocati.org</a>, (2011-19)"
+      - title: "Research Assistant to Dr. Namsoon Kang and WOCATI for the open access book Challenges and Promises of Quality Assurance in Theological Education: Multicontextual and Ecumenical Inquires <a href='https://wocati.org/challenges/'>wocati.org/challenges</a> (2013)."
 
 presentations:
     title: Academic Presentations
