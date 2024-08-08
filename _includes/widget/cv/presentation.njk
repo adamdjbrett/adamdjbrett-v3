@@ -8,7 +8,7 @@
 {% for prs in presentations.text %}
 <span class="cv-basic-info-item"><strong>{{prs.title | safe}}</strong></span>
 {% for ps in prs.list %}
-<div class="cv-item-content p-3 ms-5 lim"><ul><li>{{ ps | safe}}</li></ul></div>
+<div class="cv-item-content p-1 ms-5 lim"><ul><li>{{ ps | safe}}</li></ul></div>
 {% endfor %}
 {% endfor %}
 </div>

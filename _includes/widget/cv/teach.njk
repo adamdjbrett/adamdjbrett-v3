@@ -8,7 +8,7 @@
 {% for teach in teaching.text %}
 <span class="cv-basic-info-item"><strong>{{ teach.title | safe }}</strong></span>
 {% for th in teach.list %}
-<div class="cv-item-content p-3 ms-5 lim"><ul><li>{{ th |safe }}</li></ul></div>
+<div class="cv-item-content p-1 ms-5 lim"><ul><li>{{ th |safe }}</li></ul></div>
 {% endfor %}
 {% endfor %}
 </div>

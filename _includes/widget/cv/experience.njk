@@ -6,9 +6,16 @@
 </header>
 <div class="cv-item">
 {% for expr in experience.text %}
-<span class="cv-basic-info-item"><strong>{{ expr.title | safe }}</strong></span>
+<span class="cv-basic-info-item mt-3"><strong>{{ expr.title | safe }}</strong></span>
 {% for xsp in expr.list %}
-<div class="cv-item-content p-3 ms-5 lim"><ul><li>{{ xsp | safe }}</li></ul></div>
+<div class="cv-item-content p-1 ms-5 lim"><ul><li>{{ xsp.title | safe }}
+{% for jx in xsp.content %}{% if jx.text %}<ul class="ms-3"><li>{{ jx.text | safe }}
+{% for dx in jx.items %}{% if dx.info %}<ul class="ms-5"><li>{{ dx.info | safe }}
+{% for ax in dx.list %}{% if ax.text %}<ul class="ms-5"><li>{{ ax.text | safe }}</li></ul>{% endif %}{% endfor %}
+</li></ul>{% endif %}{% endfor %}
+</li></ul>{% endif %}{% endfor %}
+</li></ul>
+</div>
 {% endfor %}
 {% endfor %}
 </div>

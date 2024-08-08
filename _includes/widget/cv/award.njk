@@ -8,7 +8,7 @@
 {% for awds in awards.text %}
 <span class="cv-basic-info-item"><strong>{{awds.title | safe}}</strong></span>
 {% for aw in awds.text %}
-<div class="cv-item-content p-3 ms-5 lim"><ul><li>{{aw | safe }}</li></ul></div>
+<div class="cv-item-content p-1 ms-5 lim"><ul><li>{{aw | safe }}</li></ul></div>
 {% endfor %}
 {% endfor %}
 </div>
