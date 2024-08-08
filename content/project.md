@@ -29,7 +29,7 @@ permalink: "project/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNum
 <div class="p-3 col-md-10 mx-auto">
 <div class="row">
 {%- for item in pagination.items -%}
-<a href="{{item.url}}" class="col-md-6 p-1 posts mb-3 mt-5">
+<a href="{{item.url}}" class="col-md-6 p-2 posts mb-3 mt-5">
 <div class="p-3 border-bottom ">
 {% if item.data.image %}<img class="img-fluid img-post mb-3" alt="{{item.data.title}}" width="100%" height="100%" src="https://wsrv.nl/?url={{metadata.url}}{{item.data.image}}&w=500&h=500&output=webp"/>{% endif %}
 <h3>{{ item.data.title }}</h3>
