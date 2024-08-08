@@ -92,9 +92,9 @@ export default async function(eleventyConfig) {
 eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
 
 // pagefind in
-// eleventyConfig.on('eleventy.after', () => {
-// execSync(`npx pagefind --site _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
-// })
+eleventyConfig.on('eleventy.after', () => {
+execSync(`npx pagefind --site _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
+})
 
 // delete bots
 eleventyConfig.ignores.delete("bots.yml");
