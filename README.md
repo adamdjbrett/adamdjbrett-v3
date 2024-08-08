@@ -12,7 +12,7 @@ Run demo [https://adamdjbrettv2.netlify.app/](https://adamdjbrettv2.netlify.app/
 
 + Migration from jekyll to 11ty `V.3.0.0-alpha.13`
 
-### v2 issue tracker
+### v3 issue tracker
 1. Front matter issues
     2. is exclude: yes or no working?
 2. how are we exlcuding bots?
@@ -26,6 +26,7 @@ Run demo [https://adamdjbrettv2.netlify.app/](https://adamdjbrettv2.netlify.app/
     - experience is misaligned
     - Service needs a sublist as well
 6. how do I edit main menu?
+7. metadata.json line 88 change facebook to linkedin. how do I get the linkedin icon to show?
 
 ---
 
