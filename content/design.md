@@ -200,7 +200,7 @@ galleries:
   - title: "2024 Wooden Stick Festival"
     image: /assets/img/posters/2024-5K-and-WSF-1.png
     order: 63 
-permalink: "/gallery/"
+permalink: "/design/"
 ---
 ## List of Posters and Flyers
 * 2009 Diversity and Social Justice Lecture by Dr. Lester Ruiz of ATS at Brite Divinity School, Texas Christian University
