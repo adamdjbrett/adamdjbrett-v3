@@ -14,11 +14,14 @@ Update 8 Aug 2024
 
 + Redesign Frontmatter for CV page
 + Re-implement YAML data to template
++ Reduce width
 
 ### v3 issue tracker
 1. Front matter issues
     2. is exclude: yes or no working?
+    `All widgets and frontmatter Automatically show or create redirect/canonical links if the area has no data, and do not show or exclude if the area has no data.`
 2. how are we exlcuding bots?
+`DONE , i have setup eleventy.config.js for exclue bots.yml`
 4. cv.md issues
     - educations should be education
     - reduce the amount of whitespace
@@ -28,9 +31,13 @@ Update 8 Aug 2024
           - sublist:
     - experience is misaligned
     - Service needs a sublist as well
+    `DONE , i have fix it.`
 6. how do I edit main menu?
+Main menu nav on `data/metadata.json`
+Home page edit on `content/index.md`
+For project and blog automaticly fetch from project and blog post article.
 7. metadata.json line 88 change facebook to linkedin. how do I get the linkedin icon to show?
-
+`DONE`
 ---
 
 ## ✨ Features :
