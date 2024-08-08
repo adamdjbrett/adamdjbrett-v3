@@ -384,7 +384,7 @@ presentations:
     text: 
       - title: 2024
         list: 
-				- Co-presenter, Haudenosaunee and Indigenous Perspectives on Tracing the Doctrine of Christian Discovery through British Colonial Sources, 22-29 May 2024 Workshop at The National Archives (TNA), United Kingdom
+         - Co-presenter, Haudenosaunee and Indigenous Perspectives on Tracing the Doctrine of Christian Discovery through British Colonial Sources, 22-29 May 2024 Workshop at The National Archives (TNA), United Kingdom
       - title: 2023
         list: 
         - Co-presenter, International Dimensions of the Doctrine of Discovery Panel III International Human Rights, part of <a href='https://doctrineofdiscovery.org/blog/conference-schedule/'>The Religious Origins of White Supremacy Johnson v. M’Intosh and the Doctrine of Christian Discovery</a>
