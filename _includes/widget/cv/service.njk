@@ -8,7 +8,9 @@
 {% for srv in service.text %}
 <span class="cv-basic-info-item"><strong>{{ srv.title |safe }}</strong></span>
 {% for sv in srv.list %}
-<div class="cv-item-content p-3 ms-5 lim"><ul><li>{{ sv |safe }}</li></ul></div>
+<div class="cv-item-content p-1 ms-5 lim"><ul><li>{{ sv.title |safe }}
+{% for yv in sv.content %}{% if yv.text %}<ul class="ms-5"><li>{{ yv.text | safe }}</li></ul>{% endif %}{% endfor %}
+</li></ul></div>
 {% endfor %}
 {% endfor %}
 </div>

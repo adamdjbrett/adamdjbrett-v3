@@ -7,9 +7,9 @@
 <div class="cv-item">
 <span class="cv-basic-info-item"><strong>{{collaborative.title |safe}}</strong></span>
 {% for colo in collaborative.text %}
-<div class="cv-item-content p-3 ms-5 lim">
-<ul><li>
-{{colo | safe}}
+<div class="cv-item-content p-1 ms-5 lim">
+<ul><li>{{colo.title | safe}}
+{% for cc in colo.content %}{% if cc.info %}<ul class="ms-5"><li>{{ cc.info | safe }}</li></ul>{% endif %}{% endfor %}
 </li></ul>
 </div>
 {% endfor %}

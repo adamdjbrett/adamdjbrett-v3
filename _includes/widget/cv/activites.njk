@@ -7,7 +7,11 @@
 <div class="cv-item">
 {% for actv in activities.text %}
 <span class="cv-basic-info-item"><strong>{{ actv.title |safe }}</strong></span>
-<div class="cv-item-content p-3 ms-5 lim"><ul><li>{{ actv.list |safe }}</li></ul></div>
+{% for dtv in actv.list %}
+<div class="cv-item-content p-1 ms-5 lim"><ul><li>{{ dtv.title |safe }}
+{% for hc in dtv.content %}{% if hc.text %}<ul class="ms-5"><li>{{ hc.text | safe }}</li></ul>{% endif %}{% endfor %}
+</li></ul></div>
+{% endfor %}
 {% endfor %}
 </div>
 </section>

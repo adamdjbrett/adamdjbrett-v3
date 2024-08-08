@@ -10,7 +10,10 @@ Run demo [https://adamdjbrettv2.netlify.app/](https://adamdjbrettv2.netlify.app/
 
 ## Change Log ✍🏼
 
-+ Migration from jekyll to 11ty `V.3.0.0-alpha.13`
+Update 8 Aug 2024
+
++ Redesign Frontmatter for CV page
++ Re-implement YAML data to template
 
 ### v3 issue tracker
 1. Front matter issues

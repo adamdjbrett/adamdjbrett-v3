@@ -96,6 +96,9 @@ eleventyConfig.on('eleventy.after', () => {
 execSync(`npx pagefind --site _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
 })
 
+// delete bots
+eleventyConfig.ignores.delete("bots.yml");
+
 // Activate nunjuck limit reverse
 eleventyConfig.addNunjucksFilter("limit", (arr, limit) => arr.slice(0, limit));
 	eleventyConfig.addFilter("head", (array, n) => {
