@@ -406,7 +406,7 @@ presentations:
         - Dispensational Catastrophic-Utopianism in the Early 20th Century United States, Transformations and Their Religious-Cultural Landscape panel, Flourish and Decay Exploring Religion in Process, Syracuse University Graduate Student Conference, April 13, 2018.
       - title: 2017
         list: 
-        - The Monstrosity of Messianism in Zack Snyder's Man of Steel and Batman vs. Superman, 2017 Annual meeting of the American Academy of Religion, Boston. Death, Dying, and Beyond Unit and Religion, Film, and Visual Culture Unit Theme Superheroes, Where Is Thy Sting? #deathbeyond panel, November 20, 2018.
+        - The Monstrosity of Messianism in Zack Snyder's Man of Steel and Batman vs. Superman, 2017 Annual meeting of the American Academy of Religion, Boston. Death, Dying, and Beyond Unit and Religion, Film, and Visual Culture Unit Theme Superheroes, Where Is Thy Sting? \#deathbeyond panel, November 20, 2018.
         - Teaching the Effective History of the Enlightenment, Engaged Pedagogy and Social Justice Education panel, 2017 Annual Meeting of The National Association of Baptist Professors of Religion, Belmont University, May 22-24, 2017.
       - title: 2016
         list:
