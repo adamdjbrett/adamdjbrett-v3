@@ -73,7 +73,19 @@ education:
      - edu: "M.Phil. Religion, Syracuse University"   
   - title: "2013"
     text: 
-     - edu: "CAS. Women's and Gender Studies, Syracuse University"       
+     - edu: "CAS. Women's and Gender Studies, Syracuse University"  
+  - title: "2011"
+    text: 
+     - edu: "Th.M. History and Theology, Brite Divinity School"  
+  - title: "2011"
+    text: 
+     - edu: "GC. Women's and Gender Studies, Texas Christian University"  
+  - title: "2009"
+    text: 
+     - edu: "MTS. Theology and Culture, Brite Divinity School"       
+  - title: "2006"
+    text: 
+     - edu: "BA. History and Biblical Studies, Warner University"
 form: 
  title: "LET'S TALK... 💬"
  button: "Submit 🚀"
