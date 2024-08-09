@@ -15,13 +15,14 @@ Update 8 Aug 2024
 + Redesign Frontmatter for CV page
 + Re-implement YAML data to template
 + Reduce width
++ Add demo exclude for sitemap page on `content/demo.md` to use sitemap exclude we can add this line code `eleventyExcludeFromCollections: true` just add this line code if you don't want your content page to be included in sitemap.
 
 ### v3 issue tracker
 1. Front matter issues
     2. is exclude: yes or no working?
     `All widgets and frontmatter Automatically show or create redirect/canonical links if the area has no data, and do not show or exclude if the area has no data.`
 2. how are we exlcuding bots?
-`DONE , i have setup eleventy.config.js for exclue bots.yml`
+`DONE , i have setup eleventy.config.js for exclude bots.yml`
 4. cv.md issues
     - educations should be education
     - reduce the amount of whitespace

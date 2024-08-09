@@ -6,6 +6,7 @@ canconcial_url: "https://podcast.doctrineofdiscovery.org/"
 original_link: "https://podcast.doctrineofdiscovery.org/"
 date: 2024-07-13
 tags: notes
+eleventyExcludeFromCollections: true
 ---
 Portfolio New Update Project Demo Page and Features
 
