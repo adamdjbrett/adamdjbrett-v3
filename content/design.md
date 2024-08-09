@@ -117,7 +117,7 @@ galleries:
     image: /assets/img/posters/2018-stephanie-wyatt-header.jpg
     order: 37
   - title: "2018 Stephanie Course Flyer"
-    image: /assets/img/posters/2018-stephanie-ABC-flyer
+    image: /assets/img/posters/2018-stephanie-ABC-flyer.jpg
     order: 38
   - title: "2018 Wooden Stick Festival"
     image: /assets/img/posters/2018-laxweekend18-sticksup.jpg  
@@ -144,7 +144,7 @@ galleries:
     image: /assets/img/posters/2020-Haudenosaunee-women-influence-web.jpg
     order: 44
   - title: "AILA Banner"
-    image: /assets/img/2020-aila-banner.png
+    image: /assets/img/posters/2020-aila-banner.png
     order: 45
   - title: "2020 Haudensoaunee Women's influence Facebook"
     image: /assets/img/posters/2020-Haudenosaunee-Womens-Influence-Facebook.png
