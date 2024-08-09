@@ -12,7 +12,9 @@ Run demo [https://adamdjbrettv2.netlify.app/](https://adamdjbrettv2.netlify.app/
 
 ### Update 10 Aug 2024 📌
 
-Fix gallery.md on line 119 and line 147
+- remove gallery.md change to design.md `/design/`
+
+Fix design.md on line 119 and line 147
 
 `line 119`
 
