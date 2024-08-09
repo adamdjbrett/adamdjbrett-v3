@@ -15,7 +15,7 @@ Update 8 Aug 2024
 + Redesign Frontmatter for CV page
 + Re-implement YAML data to template
 + Reduce width
-+ Add demo exclude for sitemap page on `content/demo.md` to use exclude sitemap we can add this line code `eleventyExcludeFromCollections: true`
++ Add demo exclusion for sitemap page on `content/demo.md` to use sitemap exclusion we can add this line code `eleventyExcludeFromCollections: true` just add this line code if you don't want your content page to be included in sitemap.
 
 ### v3 issue tracker
 1. Front matter issues
