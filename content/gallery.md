@@ -144,7 +144,7 @@ galleries:
     image: /assets/img/posters/2020-Haudenosaunee-women-influence-web.jpg
     order: 45
   - title: "AILA Banner"
-    image: /assets/img/2020-aila-banner.png
+    image: /assets/img/posters/2020-aila-banner.png
     order: 46
   - title: "2020 Haudensoaunee Women's influence Facebook"
     image: /assets/img/posters/2020-Haudenosaunee-Womens-Influence-Facebook.png
