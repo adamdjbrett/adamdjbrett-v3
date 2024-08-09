@@ -139,6 +139,12 @@
     "text1": "(CC BY 4.0) License",
     "text2": "Adam DJ Brett",
     "link": "https://www.adamdjbrett.com"
+  },
+
+  "author": {
+    "name": "Adam DJ Brett",
+    "url": "https://www.adamdjbrett.com",
+    "email": "info@adamdjbrett.com"
   }
 
 }
