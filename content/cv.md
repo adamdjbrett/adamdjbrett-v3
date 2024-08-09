@@ -88,6 +88,7 @@ teaching:
       - 2023-Summer Religion & The World, Online (Philosophy 2200)
     - title: Syracuse University, Instructor
       list:
+      - 2024 Course Design and Development, <a href="https://doctrineofdiscovery.org/blog/doctrine-of-discovery-syllabus/" target="_blank" rel="noopener">The Religious Origins of White Supremacy</a> with Philip P. Arnold and Sebastian Modrow
       - 2023-Fall Religion and Sports, 8-week Online (Religion 103)
       - 2022-Summer Religion and Sports, Online (Religion 103)
       - 2022-Summer Religions of the World, Online (Religion 101)
@@ -358,6 +359,7 @@ publications:
     title: Publications
     text: 
       - Digital Humanities as Preserving Inherently Ephemeral Information, _The Bulletin for the Study of Religion_, accepted.
+      -  "REL 500/600: The Religious Origins of White Supremacy: Johnson v. M'Intosh and the Doctrine of Christian Discovery," Doctrine of Discovery Project (8 August 2024). <a href="https://doctrineofdiscovery.org/blog/doctrine-of-discovery-syllabus/">read now</a>
       - Co-author, Betty Lyons and Adam DJ Brett. However, Extravagant <a href='https://canopyforum.org/2023/03/23/however-extravagant-the-pretensions-of-johnson-v-mintosh'>The Pretensions Of Johnson V. M’Intosh"</a>
       - Co-author, Philip P. Arnold, Sandra L. Bigtree and Adam DJ Brett. <a href='https://canopyforum.org/2023/03/10/introduction-to-the-200-years-of-johnson-v-mintosh-law-religion-and-native-american-lands-series/'>Introduction to the 200 Years of _Johnson v. M’Intosh_ Law, Religion, and Native American Lands Series. March 10, 2023</a>.
       - Co-author, <a href='https://canopyforum.org/200-years-of-johnson-v-mintosh-law-religion-and-native-american-lands/'>200 Years of Johnson v. M'Intosh Law, Religion, and Native American Lands A Canopy Forum Thematic Series, March -- April 2023, Canopy Forum</a>.
