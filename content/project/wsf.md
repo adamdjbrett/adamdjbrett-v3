@@ -7,6 +7,6 @@ tags:
   - lacrosse
   - running
 ---
-![2024 Event Poster](/img/posters/2024-5K-and-WSF-1.png)
+![2024 Event Poster](/assets/img/posters/2024-5K-and-WSF-1.png)
 
 [Learn More](https://aila.ngo/the-restore-our-sacred-lake-5k-and-haudenosaunee-wooden-stick-festival-weekend-september-14th-and-15th-at-onondaga-lake-park/)
