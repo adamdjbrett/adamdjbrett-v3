@@ -44,9 +44,9 @@
   "navbar_dropdown":
   [
      {
-      "nav": "GALLERY",
-      "key": "g",
-      "link": "/gallery/"
+      "nav": "DESIGN",
+      "key": "d",
+      "link": "/design/"
      },
      {
       "nav": "CODES",
