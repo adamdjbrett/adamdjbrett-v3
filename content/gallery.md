@@ -8,10 +8,10 @@ galleries:
   - title: "2009 Diversity and Social Justice Lecture by Dr. Lester Ruiz of ATS at Brite Divinity School, Texas Christian University"
     image: /assets/img/posters/2009-Harry-Knox.jpg
     order: 1
-  - title: "2009 Dialogue with Nietzsche: Christianity after Nietzsche, Nietzsche after Christianity by Dr. Lester Ruiz of ATS at Brite Divinity School, Texas Christian University"
+  - title: "2009 Dialogue with Nietzsche | Christianity after Nietzsche, Nietzsche after Christianity by Dr. Lester Ruiz of ATS at Brite Divinity School, Texas Christian University"
     image: /assets/img/posters/2009-Dr-Lester-Ruiz-ATS-Guest-lecture-Rev-1.jpg
     order: 2
-  - title: "2009 Struggling for Justice Between & Betwixt: The 1st Diversity and Social Justice Colloquium at Brite Divinity School, Texas Christian University"
+  - title: "2009 Struggling for Justice Between & Betwixt | The 1st Diversity and Social Justice Colloquium at Brite Divinity School, Texas Christian University"
     image: /assets/img/posters/2009-Harry-Knox.jpg
     order: 3
   - title: "Davidbrett.im post modern"
@@ -23,7 +23,7 @@ galleries:
   - title: The Prophetic Voice of Pastoral Care
     image: /assets/img/posters/2011-Brite-Sprinkle-New-Book.jpg
     order: 6
-  - title: "2010 The Fifth Roman Catholic Lecture Presents: The Death of Innocents An Eyewitness account of wrongful executions by Sister Helen Prejean, CSJ"
+  - title: "2010 The Fifth Roman Catholic Lecture Presents | The Death of Innocents An Eyewitness account of wrongful executions by Sister Helen Prejean, CSJ"
     image: /assets/img/posters/2011-Sprinkle-CoH-March-27-2011.jpg
     order: 7
   - title: "2011 WOCATI Johannesburg Consult"
@@ -35,10 +35,10 @@ galleries:
   - title: "2013 Cloud of the Impossible by Catherine Keller Flyer An Evening Talk hosted by The Department of Religion at Syracuse University"
     image: /assets/img/posters/2013-Catherine-Keller-Flyer-Evening-Talk-Final.jpg
     order: 10
-  - title: "2013 Graduate Seminar: Cloud of the Impossible by Catherine Keller Flyer An Evening Talk hosted by The Graduate Student Organization of The Department of Religion at Syracuse University"
+  - title: "2013 Graduate Seminar | Cloud of the Impossible by Catherine Keller Flyer An Evening Talk hosted by The Graduate Student Organization of The Department of Religion at Syracuse University"
     image: /assets/img/posters/2013-Catherine-Keller-Seminar-Flyer.jpg
     order: 11
-  - title: "2013 The Syracuse University Department of Religion Presents: Thinking Through Foucault"
+  - title: "2013 The Syracuse University Department of Religion Presents | Thinking Through Foucault"
     image: /assets/img/posters/2013-davidbrett.im-postmodern3.jpg
     order: 12
   - title: "2013 nabpr doctoral student network"
@@ -117,7 +117,7 @@ galleries:
     image: /assets/img/posters/2018-stephanie-wyatt-header.jpg
     order: 37
   - title: "2018 Stephanie Course Flyer"
-    image: /assets/img/posters/2018-stephanie-ABC-flyer
+    image: /assets/img/posters/2018-stephanie-ABC-flyer.jpg
     order: 38
   - title: "2018 Wooden Stick Festival"
     image: /assets/img/posters/2018-laxweekend18-sticksup.jpg  
@@ -136,70 +136,70 @@ galleries:
     order: 43
   - title: "2019 Haudenosaune Olympics Fundraiser"
     image: /assets/img/posters/2019-HNLxIL-event-Artboard-1.png
-    order: 42
+    order: 44
   - title: "2019 Panel at Syracuse University"
     image: /assets/img/posters/2019-haudenosaunee.jpg
-    order: 44  
-  - title: "2020 Haudenosaunee Women's Influence"
+    order: 45  
+  - title: "2020 Haudenosaunee Womens Influence"
     image: /assets/img/posters/2020-Haudenosaunee-women-influence-web.jpg
-    order: 45
-  - title: "AILA Banner"
-    image: /assets/img/2020-aila-banner.png
     order: 46
-  - title: "2020 Haudensoaunee Women's influence Facebook"
-    image: /assets/img/posters/2020-Haudenosaunee-Womens-Influence-Facebook.png
+  - title: "AILA Banner"
+    image: /assets/img/posters/2020-aila-banner.png
     order: 47
-  - title: "Mother Earth's Pandemic"
+  - title: "2020 Haudensoaunee Womens influence Facebook"
+    image: /assets/img/posters/2020-Haudenosaunee-Womens-Influence-Facebook.png
+    order: 48
+  - title: "Mother Earths Pandemic"
     image: /assets/img/posters/2020-mother-earth-pandemic.png
-    order: 48    
+    order: 49    
   - title: "2020 Ways of Knowing"
     image: /assets/img/posters/2020-waysofkonwing.jpg
-    order: 49   
+    order: 50   
   - title: "2021 Land Acknolwedgement Event"
     image: /assets/img/posters/2021-land-acknowledgements-event.png
-    order: 50  
+    order: 51  
   - title: "2023 APSU Religion and World"
     image: /assets/img/posters/2023-apsu-religion-world.png
-    order: 51  
+    order: 52  
   - title: "2023 Federal Anti-Indian Law Panel"
     image: /assets/img/posters/2023-Federal-Anti-Indian-Law-Panel.png
-    order: 52  
+    order: 53  
   - title: "2023 Language is Life panel"
     image: /assets/img/posters/2023-Land-is-Language--Language-is-Life.png
-    order: 53  
+    order: 54  
   - title: "2023 Religious Origins of White Supremacy Flyer"
     image: /assets/img/posters/2023-Religious-Origins-of-White-Supremacy-Flyer.png
-    order: 54  
+    order: 55  
   - title: "2023 Religious Origins of White Supremacy Banner"
     image: /assets/img/posters/2023-Religious-Origins-of-White-Supremacy-banner.jpg
-    order: 55  
+    order: 56  
   - title: "2023 Conference Poster Large"
     image: /assets/img/posters/2023-conference-poster-large.jpg
-    order: 56  
+    order: 57  
   - title: "domination word cloud"
     image: /assets/img/posters/2024-Acknowledging-Doctrine-Christian-Domination-wordcloud.jpg
-    order: 57  
+    order: 58  
   - title: "Organization of American States Event"
     image: /assets/img/posters/2024-OAS-Event.png
-    order: 58  
+    order: 59  
   - title: "Mapping the Doctrine of Discovery Promotional Image"
     image: /assets/img/posters/2024-Podcast-S04E06.png
-    order: 59  
+    order: 60  
   - title: "MTSU Religion and Society"
     image: /assets/img/posters/2024-MTSU-Religion-Society.png
-    order: 60  
+    order: 61  
   - title: "2024 MTSU Bible"
     image: /assets/img/posters/2024-MTSU-Bible.png
-    order: 61 
+    order: 62 
   - title: "Mapping the Doctrine of Discovery Podcast Postcard"
     image: /assets/img/posters/2024-mapping-doctrine-discovery-postcard-01.png
-    order: 62  
+    order: 63  
   - title: "Mapping the Doctrine of Discovery Podcast Postcard"
     image: /assets/img/posters/2024-mapping-doctrine-discovery-postcard-02.png
-    order: 63  
+    order: 64  
   - title: "2024 Wooden Stick Festival"
     image: /assets/img/posters/2024-5K-and-WSF-1.png
-    order: 64 
+    order: 65 
 permalink: "/gallery/"
 ---
 ## List of Posters and Flyers

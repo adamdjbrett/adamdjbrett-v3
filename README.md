@@ -10,6 +10,20 @@ Run demo [https://adamdjbrettv2.netlify.app/](https://adamdjbrettv2.netlify.app/
 
 ## Change Log ✍🏼
 
+Fix gallery.md on line 119 and line 147
+
+
+`line 119`
+
+2018 Stephanie Course Flyer missing image format
+
+`line 139 wrong number - order: 42 `
+
+`line 147`
+
+AILA Banner - wrong image `/assets/img/2020-aila-banner.png` must be `/assets/img/posters/2020-aila-banner.png`
+
+
 ### Update 9 Aug 2024 📌
 
 ### Exclude from sitemap
