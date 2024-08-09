@@ -121,85 +121,85 @@ galleries:
     order: 38
   - title: "2018 Wooden Stick Festival"
     image: /assets/img/posters/2018-laxweekend18-sticksup.jpg  
-    order: 38
+    order: 39
   - title: "2018 Wooden Stick Festival alt"
     image: /assets/img/posters/2018-Deyhontsigwaehs-main-flyer-alternate-logo2.png
-    order: 39
+    order: 40
   - title: "2018 Doctrine of Discovery Flyer"
     image: /assets/img/posters/2018-doctrine-of-discovery-flyer-min-scaled.jpg
-    order: 40  
+    order: 41
   - title: "2019 Honor Oren Lyons"
     image: /assets/img/posters/2019-honor-oren-lyons.png
-    order: 41
+    order: 42
   - title: "2019 Workshop"
     image: /assets/img/posters/2019-Haudenosaunee-enviroment-training.png
-    order: 41
+    order: 43
   - title: "2019 Haudenosaune Olympics Fundraiser"
     image: /assets/img/posters/2019-HNLxIL-event-Artboard-1.png
-    order: 42
+    order: 44
   - title: "2019 Panel at Syracuse University"
     image: /assets/img/posters/2019-haudenosaunee.jpg
-    order: 43  
+    order: 45  
   - title: "2020 Haudenosaunee Women's Influence"
     image: /assets/img/posters/2020-Haudenosaunee-women-influence-web.jpg
-    order: 44
+    order: 46
   - title: "AILA Banner"
     image: /assets/img/posters/2020-aila-banner.png
-    order: 45
+    order: 47
   - title: "2020 Haudensoaunee Women's influence Facebook"
     image: /assets/img/posters/2020-Haudenosaunee-Womens-Influence-Facebook.png
-    order: 46
+    order: 48
   - title: "Mother Earth's Pandemic"
     image: /assets/img/posters/2020-mother-earth-pandemic.png
-    order: 47    
+    order: 49    
   - title: "2020 Ways of Knowing"
     image: /assets/img/posters/2020-waysofkonwing.jpg
-    order: 48   
+    order: 50   
   - title: "2021 Land Acknolwedgement Event"
     image: /assets/img/posters/2021-land-acknowledgements-event.png
-    order: 49  
+    order: 51  
   - title: "2023 APSU Religion and World"
     image: /assets/img/posters/2023-apsu-religion-world.png
-    order: 50  
+    order: 52 
   - title: "2023 Federal Anti-Indian Law Panel"
     image: /assets/img/posters/2023-Federal-Anti-Indian-Law-Panel.png
-    order: 51  
+    order: 53  
   - title: "2023 Language is Life panel"
     image: /assets/img/posters/2023-Land-is-Language--Language-is-Life.png
-    order: 52  
+    order: 54  
   - title: "2023 Religious Origins of White Supremacy Flyer"
     image: /assets/img/posters/2023-Religious-Origins-of-White-Supremacy-Flyer.png
-    order: 53  
+    order: 55  
   - title: "2023 Religious Origins of White Supremacy Banner"
     image: /assets/img/posters/2023-Religious-Origins-of-White-Supremacy-banner.jpg
-    order: 54  
+    order: 56  
   - title: "2023 Conference Poster Large"
     image: /assets/img/posters/2023-conference-poster-large.jpg
-    order: 55  
+    order: 57  
   - title: "domination word cloud"
     image: /assets/img/posters/2024-Acknowledging-Doctrine-Christian-Domination-wordcloud.jpg
-    order: 56  
+    order: 58  
   - title: "Organization of American States Event"
     image: /assets/img/posters/2024-OAS-Event.png
-    order: 57  
+    order: 59  
   - title: "Mapping the Doctrine of Discovery Promotional Image"
     image: /assets/img/posters/2024-Podcast-S04E06.png
-    order: 58  
+    order: 60  
   - title: "MTSU Religion and Society"
     image: /assets/img/posters/2024-MTSU-Religion-Society.png
-    order: 59  
+    order: 61  
   - title: "2024 MTSU Bible"
     image: /assets/img/posters/2024-MTSU-Bible.png
-    order: 60  
+    order: 62  
   - title: "Mapping the Doctrine of Discovery Podcast Postcard"
     image: /assets/img/posters/2024-mapping-doctrine-discovery-postcard-01.png
-    order: 61  
+    order: 63  
   - title: "Mapping the Doctrine of Discovery Podcast Postcard"
     image: /assets/img/posters/2024-mapping-doctrine-discovery-postcard-02.png
-    order: 62  
+    order: 64  
   - title: "2024 Wooden Stick Festival"
     image: /assets/img/posters/2024-5K-and-WSF-1.png
-    order: 63 
+    order: 65 
 permalink: "/design/"
 ---
 ## List of Posters and Flyers
