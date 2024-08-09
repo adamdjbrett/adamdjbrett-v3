@@ -16,7 +16,7 @@ folks:
    - icon: "/assets/img/logos/Syracuse_University_BlockS_ORANGE_RGB.svg"
      title: "Syracuse University"
      link: "https://syracuse.edu"
-   - icon: "/assets/img/logos/MTSU_Wordmark.png"
+   - icon: "/assets/img/logos/MTSU.svg"
      title: "MTSU"
      link: "https://mtsu.edu"
 findme: 
