@@ -117,7 +117,7 @@ galleries:
     image: /assets/img/posters/2018-stephanie-wyatt-header.jpg
     order: 37
   - title: "2018 Stephanie Course Flyer"
-    image: /assets/img/posters/2018-stephanie-ABC-flyer
+    image: /assets/img/posters/2018-stephanie-ABC-flyer.png
     order: 38
   - title: "2018 Wooden Stick Festival"
     image: /assets/img/posters/2018-laxweekend18-sticksup.jpg  
