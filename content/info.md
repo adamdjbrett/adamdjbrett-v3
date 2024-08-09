@@ -68,6 +68,12 @@ education:
   - title: "2022"
     text: 
      - edu: "Ph.D. Religion, Syracuse University"
+  - title: "2015"
+    text: 
+     - edu: "M.Phil. Religion, Syracuse University"   
+  - title: "2013"
+    text: 
+     - edu: "CAS. Women's & Gender Studies, Syracuse University"       
 form: 
  title: "LET'S TALK... 💬"
  button: "Submit 🚀"
