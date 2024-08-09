@@ -73,7 +73,7 @@ education:
      - edu: "M.Phil. Religion, Syracuse University"   
   - title: "2013"
     text: 
-     - edu: "CAS. Women's & Gender Studies, Syracuse University"       
+     - edu: "CAS. Women's and Gender Studies, Syracuse University"       
 form: 
  title: "LET'S TALK... 💬"
  button: "Submit 🚀"
