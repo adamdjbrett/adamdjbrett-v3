@@ -16,8 +16,8 @@ permalink: /feed/feed.json
 	"items": [
 		{%- for post in collections.posts | reverse %}
 		{
-			"id": "{{ post.url }}",
-			"url": "{{ post.url }}",
+			"id": "{{metadata.url}}{{ post.url }}",
+			"url": "{{metadata.url}}{{ post.url }}",
 			"title": "{{ post.data.title }}",
 			"content_html": {% if post.templateContent %}{{ post.templateContent | transformWithHtmlBase(absolutePostUrl, post.url) | dump | safe }}{% else %}""{% endif %},
 			"date_published": "{{ post.date | dateToRfc3339 }}"
