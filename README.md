@@ -10,19 +10,49 @@ Run demo [https://adamdjbrettv2.netlify.app/](https://adamdjbrettv2.netlify.app/
 
 ## Change Log ✍🏼
 
-Update 8 Aug 2024
+### Update 9 Aug 2024 📌
+
+### Exclude from sitemap
+
+Add demo exclude for sitemap page on `content/demo.md` to use sitemap exclude we can add this line code 
+
+```
+eleventyExcludeFromCollections: true
+```
+
+Add this line code if you don't want your content page to be included in sitemap - see example on `content/blog/demo.md` or on `DEMO.md`.
+
+### Blocking Bots
+
+Blocking Bots `Done`
+
++ Functional Data `_data/bots.yaml` rename from `bots.yml` to `bots.yaml`
++ Implementation Data at `content/bots.njk`
++ Add Bots in to robots files `content/pages/robots.txt.njk`
++ Custom `robots.txt` files
+
+### Update 8 Aug 2024 📌
 
 + Redesign Frontmatter for CV page
 + Re-implement YAML data to template
 + Reduce width
-+ Add demo exclude for sitemap page on `content/demo.md` to use sitemap exclude we can add this line code `eleventyExcludeFromCollections: true` just add this line code if you don't want your content page to be included in sitemap.
 
-### v3 issue tracker
+---
+
+### 🪲 Bugs and issue tracker 🐞
+
 1. Front matter issues
-    2. is exclude: yes or no working?
-    `All widgets and frontmatter Automatically show or create redirect/canonical links if the area has no data, and do not show or exclude if the area has no data.`
-2. how are we exlcuding bots?
+
+All widgets and frontmatter Automatically show or create redirect/canonical links if the area has no data, and do not show or exclude if the area has no data.
+
+2. is exclude: yes or no working?
+
+For exclude sitemap you can add this code `eleventyExcludeFromCollections: true` see demo on `content/blog/demo.md`
+
+3. how are we exlcuding bots?
+
 `DONE , i have setup eleventy.config.js for exclude bots.yml`
+
 4. cv.md issues
     - educations should be education
     - reduce the amount of whitespace
@@ -32,13 +62,21 @@ Update 8 Aug 2024
           - sublist:
     - experience is misaligned
     - Service needs a sublist as well
-    `DONE , i have fix it.`
-6. how do I edit main menu?
+
+`DONE , i have fix it.`
+
+5. how do I edit main menu?
+
 Main menu nav on `data/metadata.json`
+
 Home page edit on `content/index.md`
+
 For project and blog automaticly fetch from project and blog post article.
-7. metadata.json line 88 change facebook to linkedin. how do I get the linkedin icon to show?
+
+6. metadata.json line 88 change facebook to linkedin. how do I get the linkedin icon to show?
+
 `DONE`
+
 ---
 
 ## ✨ Features :

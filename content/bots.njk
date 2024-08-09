@@ -1,0 +1,11 @@
+---
+layout: false
+eleventyExcludeFromCollections: true
+permalink: /.htaccess
+---
+RewriteEngine on
+RewriteBase /
+
+# block “AI” bots
+RewriteCond %{HTTP_USER_AGENT} {% for b in bots %} ({{b}}|{%- if not loop.last %}{% endif %} ){% endfor %} [NC]
+RewriteRule ^ – [F]
