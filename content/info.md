@@ -13,7 +13,7 @@ folks:
    - icon: "/assets/img/logos/ivi.png"
      title: "Indigenous Values Initiative"
      link: "https://indigenousvalues.org"
-   - icon: "/assets/img/logos/syracuse_un.png"
+   - icon: "/assets/img/logos/syracuse_horizontal_1Line.svg"
      title: "Syracuse University"
      link: "https://syracuse.edu"
    - icon: "/assets/img/logos/MTSU.svg"
