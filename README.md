@@ -10,8 +10,9 @@ Run demo [https://adamdjbrettv2.netlify.app/](https://adamdjbrettv2.netlify.app/
 
 ## Change Log ✍🏼
 
-Fix gallery.md on line 119 and line 147
+### Update 10 Aug 2024 📌
 
+Fix gallery.md on line 119 and line 147
 
 `line 119`
 
@@ -22,6 +23,8 @@ Fix gallery.md on line 119 and line 147
 `line 147`
 
 AILA Banner - wrong image `/assets/img/2020-aila-banner.png` must be `/assets/img/posters/2020-aila-banner.png`
+
+`line 121 wrong sort number `
 
 
 ### Update 9 Aug 2024 📌
