@@ -67,6 +67,20 @@ export default async function(eleventyConfig) {
 			author: {
 				name: "Adam Dj Brett"
 			}
+		},
+		outputPath: "/feed/feed.json",
+		collection: {
+			name: "posts",
+			limit: 10,
+		},
+		metadata: {
+			language: "en",
+			title: "Adam DJ Brett",
+			subtitle: "Adam DJ Brett, Ph.D. Decoding religion",
+			base: "https://www.adamdjbrett.com",
+			author: {
+				name: "Adam Dj Brett"
+			}
 		}
 	});
 
