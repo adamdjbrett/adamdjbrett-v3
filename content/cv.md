@@ -358,15 +358,15 @@ service:
 publications:
     title: Publications
     text: 
-      - Digital Humanities as Preserving Inherently Ephemeral Information, _The Bulletin for the Study of Religion_, accepted.
+      - Digital Humanities as Preserving Inherently Ephemeral Information, <em>The Bulletin for the Study of Religion</em>, accepted.
       - REL 500/600 The Religious Origins of White Supremacy | Johnson v. M'Intosh and the Doctrine of Christian Discovery," Doctrine of Discovery Project (8 August 2024). <a href="https://doctrineofdiscovery.org/blog/doctrine-of-discovery-syllabus/">read now</a>
       - Co-author, Betty Lyons and Adam DJ Brett. However, Extravagant <a href='https://canopyforum.org/2023/03/23/however-extravagant-the-pretensions-of-johnson-v-mintosh'>The Pretensions Of Johnson V. M’Intosh"</a>
       - Co-author, Philip P. Arnold, Sandra L. Bigtree and Adam DJ Brett. <a href='https://canopyforum.org/2023/03/10/introduction-to-the-200-years-of-johnson-v-mintosh-law-religion-and-native-american-lands-series/'>Introduction to the 200 Years of _Johnson v. M’Intosh_ Law, Religion, and Native American Lands Series. March 10, 2023</a>.
       - Co-author, <a href='https://canopyforum.org/200-years-of-johnson-v-mintosh-law-religion-and-native-american-lands/'>200 Years of Johnson v. M'Intosh Law, Religion, and Native American Lands A Canopy Forum Thematic Series, March -- April 2023, Canopy Forum</a>.
-      - Journal Article Reavers aint men [_sic_] Or they forgot _how_ to be | Teaching Religion in Science Fiction, _Perspectives in Religious Studies_ 46, no. 4 (Winter 2019) 421-430 via ATLA.
-      - Book Review Religion and Culture Contemporary Practices and Perspectives.” _Perspectives in Religious Studies_ 42,  no. 1 (Spr 2015) 92-94. <a href='http://search.ebscohost.com/login.aspx?direct=true&db=rfh&AN=ATLAiC9Y160711000197&site=ehost-live.'>via ATLA</a>
-      - Book Review The world's religions a contemporary reader. _Perspectives in Religious Studies_ 42,  no. 1 (Spr 2015) 92-94. <a href='http://search.ebscohost.com/login.aspx?direct=true&db=rfh&AN=ATLAiC9Y160711000198&site=ehost-live'>via ATLA</a>
-      - Book Review _Religious and Sexual Nationalisms in Central and Eastern Europe — Gods, Gays and Governments_, written by Sremac, Srdjan and R. Ruard Ganzevoort (eds.) (2015), <a href='https://doi.org/10.1163/15709256-12341335'>_Journal of Empirical Theology_, 29(1), 133-134</a>.
+      - Journal Article Reavers aint men [<em>sic</em>] Or they forgot how to be | Teaching Religion in Science Fiction, <em>Perspectives in Religious Studies</em> 46, no. 4 (Winter 2019) 421-430 via ATLA.
+      - Book Review Religion and Culture Contemporary Practices and Perspectives.” <em>Perspectives in Religious Studies</em> 42,  no. 1 (Spr 2015) 92-94. <a href='http://search.ebscohost.com/login.aspx?direct=true&db=rfh&AN=ATLAiC9Y160711000197&site=ehost-live.'>via ATLA</a>
+      - Book Review The world's religions a contemporary reader. <em>Perspectives in Religious Studies</em> 42,  no. 1 (Spr 2015) 92-94. <a href='http://search.ebscohost.com/login.aspx?direct=true&db=rfh&AN=ATLAiC9Y160711000198&site=ehost-live'>via ATLA</a>
+      - Book Review _Religious and Sexual Nationalisms in Central and Eastern Europe — Gods, Gays and Governments_, written by Sremac, Srdjan and R. Ruard Ganzevoort (eds.) (2015), <a href='https://doi.org/10.1163/15709256-12341335'><em>Journal of Empirical Theology</em>, 29(1), 133-134</a>.
 
 scholarship:
     title: Public Scholarship
