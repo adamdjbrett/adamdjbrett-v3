@@ -140,6 +140,12 @@
     "text2": "Adam DJ Brett",
     "link": "https://www.adamdjbrett.com"
   },
+	
+  "built_with": {
+    "text1": "Built With",
+    "text2": "11ty",
+    "link": "https://www.11ty.dev"
+  },
 
   "author": {
     "name": "Adam DJ Brett",
