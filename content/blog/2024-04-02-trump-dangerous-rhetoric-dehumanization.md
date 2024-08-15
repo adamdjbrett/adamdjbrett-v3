@@ -2,6 +2,7 @@
 title:  "Trump’s Dangerous Rhetoric of Dehumanization"
 tags: notes
 canonical_url: https://goodfaithmedia.org/432273-2/
+original_link: /trump-dangerous-rhetoric-dehumanization/
 ---
 Thank you to [Good Faith Media](https://goodfaithmedia.org/) for publishing my first op-ed.
 

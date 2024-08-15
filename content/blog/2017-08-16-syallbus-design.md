@@ -8,6 +8,7 @@ tags:
   - syllabus
   - classroom
   - notes
+original_link: /syallbus-design/
 ---
 Syracuse University syallbi design resources for teaching assistants.
 

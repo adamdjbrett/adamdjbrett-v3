@@ -8,6 +8,9 @@ tags:
   - syllabus
   - classroom
   - notes
+original_link:
+  - https://www.adamdjbrett.com/class.syr.edu
+  - https://www.adamdjbrett.com/syallbus-design/class.syr.edu
 ---
 
 These are selected Syracuse University policy documents which might be useful in helping to facilitate leading TA orientation small groups.
