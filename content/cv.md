@@ -48,6 +48,19 @@ education:
         text: 
            - <em>B.A.</em>, History and Biblical Studies, Warner University.
 
+certifications:
+    title: Certifications
+    items:
+      - title: MTSU Online Instructor Certificate
+        text: 
+           - info: Middle Tennessee State University (2024)
+      - title: Certificate of Advanced Studies
+        text: 
+           - info: Women’s and Gender Studies, Syracuse University (2013)
+      - title: Graduate Certificate, Women and Gender Studies
+        text: 
+           - info: Texas Christian University (2011)
+
 skills:
     title: Areas of Specialization
     text: 
