@@ -28,17 +28,11 @@ education:
       - years: 2015
         text: 
            - <em>M. Phil.</em> Religion. <a href="https://artsandsciences.syracuse.edu/religion/" target="_blank" rel="noopener">Syracuse University, Department of Religion</a>.
-      - years: 2013
-        text: 
-           -  <em>Certificate of Advanced Studies</em>, Women's and Gender Studies, <a href="https://artsandsciences.syracuse.edu/womens-and-gender-studies/" target="_blank" rel="noopener">Syracuse University, Department of Women's and Gender Studies</a>. 
       - years: 2011
         text: 
            - <em>Th.M.</em>, History and Theology. <a href="https://brite.edu/" target="_blank" rel="noopener">Brite Divinity School</a> at <a href="https://tcu.edu/" target="_blank" rel="noopener">Texas Christian University</a>.
            - >
              Thesis: <em>Archaéological Theology: <del>G-d</del> Beyond God</em>
-      - years: 2011
-        text: 
-           - <em>Gradaute Certificate</em>, Women's and Gender Studies. <a href="https://tcu.edu/" target="_blank" rel="noopener">Texas Christian University</a>, Women's and Gender Studies.
       - years: 2009
         text: 
            - <em>M.T.S</em>, Theology and Culture. <a href="https://brite.edu/" target="_blank" rel="noopener">Brite Divinity School</a> at <a href="https://tcu.edu/" target="_blank" rel="noopener">Texas Christian University</a>. <br />
@@ -57,9 +51,9 @@ certifications:
       - title: Certificate of Advanced Studies
         text: 
            - info: Women’s and Gender Studies, Syracuse University (2013)
-      - title: Graduate Certificate, Women and Gender Studies
+      - title: Graduate Certificate
         text: 
-           - info: Texas Christian University (2011)
+           - info: , Women and Gender Studies, Texas Christian University (2011)
 
 skills:
     title: Areas of Specialization
