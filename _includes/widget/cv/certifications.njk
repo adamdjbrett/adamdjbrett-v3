@@ -1,0 +1,13 @@
+<section class="cv-section">
+<header class="cv-section-header">
+<h2 class="cv-title-work"><span><strong>
+{{certifications.title}}
+</strong></span></h2>
+</header>
+{% for ct in certifications.items %}
+<div class="cv-item">
+<span class="cv-basic-info-item"><strong>{{ct.title |safe}}</strong></span>
+<div class="cv-item-content p-1 ms-5"><ul>{% for cts in ct.text %}<li>{{ cts.info | safe}}</li>{% endfor %}</ul></div>
+</div>
+{% endfor %}
+</section>
