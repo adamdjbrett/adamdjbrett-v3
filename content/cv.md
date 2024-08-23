@@ -84,6 +84,9 @@ teaching:
    text: 
     - title: Middle Tennessee State University, Adjunct Instructor
       list:
+      - 2024-Fall Indigenous Religions (Religious Studies 4030)
+      - 2024-Fall The Bible and Its Origins (Religious Studies 3010)
+      - 2024-Fall Religion and Society (Religious Studies 2030)
       - History of Christianity Course Design and Development. An MTEngage Certified Course (Religious Studies 3040)
       - 2024-Spring Religion and Society (Religious Studies 2030)
       - 2023-Fall Introduction to World Religions (Religious Studies 1030)
@@ -153,13 +156,13 @@ experience:
         list:
           - title: Grant and Event Coordinator Syracuse University Department of Religion Doctrine of Discovery Project Luce Grant <a href="https://news.syr.edu/blog/2022/01/12/professor-to-serve-as-principal-investigator-on-a-luce-grant-to-examine-doctrine-of-christian-discovery/">news.syr.edu</a>
           - title: Executive Producer Mapping the Doctrine of Discovery Podcast <a href="https://podcast.doctrineofdiscovery.org">podcast.doctrineofdiscovery.org</a>
-          - title: Executive Producer Doctrine of Christian Discovery Podcast <a href="https://goodfaithmedia.org/doctrine-of-christian-discovery/">goodfaithmedia.org</a>
+          - title: Executive Producer Doctrine of Christian Discovery Podcast <a href="https://goodfaithmedia.org/doctrine-of-christian-discovery/">goodfaithmedia.org</a> (Winter 2023)
       - title: 2019-Summer
         list: 
           - title: Web Production Specialist, Syracuse University College of Arts and Sciences <a href="https://thecollege.syr.edu">thecollege.syr.edu</a>
       - title: 2016-present
         list: 
-          - title: International Research Associate and Operations Manage
+          - title: International Research Associate and Operations Manager
             content: 
               - text: American Indian Law Alliance <a href="https://aila.ngo">aila.ngo</a>
           - title: Freelance Web Developer
@@ -179,9 +182,10 @@ experience:
               - text: Michelle Cronin <a href='https://michellecronin.net'>michellecronin.net</a>
               - text: Syracuse University Human Rights Film Festival <a href='https://suhrff.syr.edu'>suhrff.syr.edu</a>
               - text: Then and Now Project <a href='https://www.thenandnow.us/'>thenandnow.us</a>
-              - text: Sullivan-Clinton Campaign, Then and Now Project <a href='http://www.sullivanclinton.com/'>sullivanclinton.com</a>		
-              - text: Derry Veagh Evictions, Then and Now Project <a href='https://www.derryveagh.com'>derryveagh.com</a>
-              - text: Staked Plains, Then and Now Project <a href='https://www.stakedplains.com'>stakedplains.com</a>
+                items: 
+                  - info: Sullivan-Clinton Campaign, Then and Now Project <a href='http://www.sullivanclinton.com/'>sullivanclinton.com</a>		
+                  - info: Derry Veagh Evictions, Then and Now Project <a href='https://www.derryveagh.com'>derryveagh.com</a>
+                  - info: Staked Plains, Then and Now Project <a href='https://www.stakedplains.com'>stakedplains.com</a>
               - text: Good Shepherd Lutheran Church, Fayetteville, NY <a href='http://goodshepcny.org/'>goodshepcny.org</a>
               - text: Stephanie M. Wyatt <a href='http://stephaniewyatt.net/'>stephaniewyatt.net</a>
               - text: Ways of Knowing, A Fundraising Gala for the Skä•noñh - Great Law of Peace Center <a href='http://web.archive.org/web/20200322051959/https://www.waysofknowingskanonh.org/'>waysofknowingskanonh.org</a>
