@@ -98,7 +98,7 @@ teaching:
       - 2023-Summer Religion & The World, Online (Philosophy 2200)
     - title: Syracuse University, Instructor
       list:
-      - 2024 Course Design and Development, <a href="https://doctrineofdiscovery.org/blog/doctrine-of-discovery-syllabus/" target="_blank" rel="noopener">The Religious Origins of White Supremacy</a> with Philip P. Arnold and Sebastian Modrow
+      - 2024 Course Design and Development, <a href="https://doi.org/10.17613/smeh-wa22" target="_blank" rel="noopener">The Religious Origins of White Supremacy</a> with Philip P. Arnold and Sebastian Modrow
       - 2023-Fall Religion and Sports, 8-week Online (Religion 103)
       - 2022-Summer Religion and Sports, Online (Religion 103)
       - 2022-Summer Religions of the World, Online (Religion 101)
