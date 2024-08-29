@@ -4,6 +4,7 @@ title: Adam DJ Brett Tags
 header: Adam DJ Brett Tags
 description: Tags Adam Dj Brett
 permalink: /tags/
+original_link: https://adamdjbrett.com/notes
 ---
 <header class="container-fluid">
 <div class="col-md-9 mx-auto p-3 mts">

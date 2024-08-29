@@ -9,7 +9,8 @@ tags:
   - Indigenous-Peoples
   - Event
   - Education
-canonical_url: https://doctrineofdiscovery.org/event/education/mother-earths-pandemic/
+canonical_url: https://indigenousvalues.org/mother-earths-pandemic/
+original_link: https://adamdjbrett.com/mother-earths-pandemic
 ---
 > “Peace can only be attained when human beings live in proper relationship to the natural world” ~Tadodaho of the Haudenosaunee Confederacy, Sid Hill
 

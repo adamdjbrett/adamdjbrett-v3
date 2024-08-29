@@ -1,6 +1,7 @@
 ---
 title:  "Using Github Actions to Convert File Formats"
 tags: website
+original_link: https://www.adamdjbrett.com/using-github-actions-convert-file-formats/
 ---
 This post is all about learning and coding in public. We learn from each others mistakes and we get better by building together.
 
