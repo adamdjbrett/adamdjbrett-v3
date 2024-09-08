@@ -53,7 +53,7 @@ certifications:
            - info: Women’s and Gender Studies, Syracuse University (2013)
       - title: Graduate Certificate
         text: 
-           - info: , Women and Gender Studies, Texas Christian University (2011)
+           - info: Women and Gender Studies, Texas Christian University (2011)
 
 skills:
     title: Areas of Specialization
