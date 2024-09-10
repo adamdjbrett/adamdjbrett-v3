@@ -14,11 +14,6 @@
   "navbar":
   [
      {
-      "nav": "HOME",
-      "key": "h",
-      "link": "/"
-     },
-     {
       "nav": "INFO",
       "key": "i",
       "link": "/info/"
@@ -60,12 +55,12 @@
      },
      {
       "nav": "ABOUT",
-      "key": "1",
+      "key": "a",
       "link": "/about/"
      },
      {
       "nav": "CONSULTING",
-      "key": "2",
+      "key": "c",
       "link": "/consulting/"
      }
   ],
