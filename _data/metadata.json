@@ -13,6 +13,11 @@
   "nav_title": "ADAM DJ BRETT",
   "navbar":
   [
+    {
+      "nav": "Home",
+      "key": "h",
+      "link": "/"
+     },
      {
       "nav": "INFO",
       "key": "i",
