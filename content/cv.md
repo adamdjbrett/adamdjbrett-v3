@@ -369,6 +369,7 @@ service:
 publications:
     title: Publications
     text: 
+      - Co-author, Arnold , Philip P., Sandra Bigtree, and Adam DJ Brett. 2024. &ldquo;Preface and Introduction: From Indigenous Religions to Indigenous Values Vol. 5 No. 2&rdquo;.&nbsp;<em>Journal of the Council for Research on Religion</em>&nbsp;5 (2). Montreal, QC, Canada:ii-x. <a href="https://doi.org/10.26443/jcreor.v5i2.108">https://doi.org/10.26443/jcreor.v5i2.108</a>. 
       - Digital Humanities as Preserving Inherently Ephemeral Information, <em>The Bulletin for the Study of Religion</em>,53(1), 24-28. <a href="https://doi.org/10.1558/bsor.28913" target="_blank">https://doi.org/10.1558/bsor.28913</a>. <a href="/assets/pdfs/The+Download+(Brett).ris">RIS</a>.
       - REL 500/600 The Religious Origins of White Supremacy | Johnson v. M'Intosh and the Doctrine of Christian Discovery," <em>Doctrine of Discovery Project</em> (8 August 2024). <a href="https://doctrineofdiscovery.org/blog/doctrine-of-discovery-syllabus/">Read Now</a>
       - Co-author, Betty Lyons and Adam DJ Brett. However, Extravagant <a href='https://canopyforum.org/2023/03/23/however-extravagant-the-pretensions-of-johnson-v-mintosh'>The Pretensions Of Johnson V. M’Intosh"</a>
