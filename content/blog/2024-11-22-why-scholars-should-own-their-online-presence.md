@@ -1,0 +1,21 @@
+---
+title: "Why Scholars Should Own Their Online Presence"
+tags: websites
+---
+
+## A Domain of One's Own
+
+In the digital age, having a domain name is a critical step for scholars to establish their professional identity. A personal domain name, such as "FirstNameLastName.com," signals authority and permanence. Unlike social media platforms, which can change policies or even shut down, a custom domain provides a stable foundation for an academic's online presence. It also lends credibility to their work, as a dedicated web address conveys professionalism and makes it easier for colleagues, students, and collaborators to locate relevant information about their research and publications. For scholars who aim to control how they are perceived online, owning a domain is non-negotiable  (Cf. [A Brief History of A Domain of One's Own](http://umwdtlt.com/a-brief-history-of-domain-of-ones-own-part-two-the-12-days-of-domains/)).  
+
+Creating and maintaining a professional website is the logical next step for academics seeking to showcase their achievements. A well-designed website can serve as a digital portfolio, featuring a CV, publications, teaching resources, and links to external projects. Such a site centralizes information, making it accessible to diverse audiences. Moreover, owning and managing the website ensures that the scholar has full control over its content and design, avoiding dependency on external platforms that might introduce ads or unrelated distractions. For scholars in fields like history or religious studies, where nuanced presentations of complex ideas matter, a self-owned website allows for a thoughtful and intentional representation of their work.  
+
+## The Tools that Can Help
+
+### Carrd
+[Carrd](https://try.carrd.co/adjb), a platform known for its simplicity and elegance, is an excellent tool for building a professional website quickly. Its intuitive interface requires no prior coding knowledge, making it accessible to even the busiest of academics. [Carrd](https://try.carrd.co/adjb) offers customizable templates that strike a balance between aesthetics and functionality, enabling scholars to create visually appealing and well-organized websites. With affordable pricing and responsive designs, [Carrd](https://try.carrd.co/adjb) allows users to focus on curating content rather than grappling with technical challenges. For scholars who value efficiency and design, [Carrd](https://try.carrd.co/adjb) provides a straightforward path to establishing an impressive online presence.  
+
+### Advanced Options for Robust Scholarly Websites  
+
+For scholars seeking a more robust, multipage website that remains easy to maintain, tools like [11ty](https://11ty.dev) and [Astro](https://astro.build) provide exceptional solutions. Unlike simpler platforms such as Carrd or feature-heavy systems like WordPress, 11ty and Astro strike a balance between customization, performance, and simplicity. These static site generators allow academics to build websites that are not only fast and secure but also flexible enough to accommodate complex needs, such as hosting blogs, research archives, multimedia, and teaching materials. Scholars can use these platforms to create a polished and highly functional website without relying on heavy, plugin-dependent systems that can slow performance or introduce vulnerabilities.  
+
+Both [11ty](https://11ty.dev) and [Astro](https://astro.build) cater to users with some basic familiarity with web development while offering extensive documentation to guide new adopters. 11ty is renowned for its lightweight design, enabling scholars to create static websites that load quickly and perform well on search engines. Astro, on the other hand, is optimized for creating hybrid sites, where dynamic elements coexist seamlessly with static content. These tools emphasize modular design and are compatible with modern web standards, ensuring long-term sustainability. For scholars who value autonomy and efficiency, 11ty and Astro provide a professional-grade foundation for crafting feature-rich, aesthetically pleasing websites that grow with their academic careers.  
