@@ -82,6 +82,9 @@ exams:
 teaching:
    title: Teaching Experience
    text: 
+    - title: United Lutheran Seminary, Adjunct Instructor
+      list:
+      - 2025-Spring HTH 930 Public And Digital Humanities For Public Theology
     - title: Middle Tennessee State University, Adjunct Instructor
       list:
       - 2024-Fall Indigenous Religions (Religious Studies 4030)
