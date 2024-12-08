@@ -14,7 +14,7 @@ Let's get social and connect via the web and chat.
 * [Academia.edu](https://syr.academia.edu/AdamBrett)
 * [AILA](https://aila.ngo/staff-and-board/)
 * [Arts & Science, Syracuse University](https://artsandsciences.syracuse.edu/people/part-time/adam-dj-brett/)
-* [Bluesky](https://adjb.bsky.social)
+* [Bluesky](https://bsky.app/profile/adjb.co)
 * [Buy Me a Coffee](https://www.buymeacoffee.com/adamdjbrett)
 * [Dev](https://dev.to/adamdjbrett)
 * [Diaspora](https://diasp.org/people/9b9bd598e5c18e8f)

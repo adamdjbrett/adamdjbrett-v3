@@ -388,7 +388,9 @@ scholarship:
     title: Public Scholarship
     text: 
       - Louisiana's Ten Commandments of Truthiness, <a href="https://goodfaithmedia.org/louisianas-ten-commandment-truthiness/">Good Faith Media<?a>
-      - Trump's Dangerous Rhetoric of Dehumanization, <a href='https://goodfaithmedia.org/432273-2/'>Good Faith Media</a>  
+      - Trump's Dangerous Rhetoric of Dehumanization, <a href="https://goodfaithmedia.org/432273-2/">Good Faith Media</a>  
+      - 3MMM - Episode 240 Teaching Religious Studies by Adam DJ Brett - <a href="https://eileencampbellreed.org/2024/07/28/3mmm-episode-240-teaching-religious-studies-by-adam-d-j-brett/">Eileen Campbell-Reed</a>
+      - 3MMM - Episode 206 Adam DJ Brett’s Favorite Things <a href="https://eileencampbellreed.org/2023/07/14/adam-d-j-bretts-favorite-things/">Eileen Campbell Reed's Blog</a> 
       - Lacrosse Legends LaxCon 2023 interview <a href='https://youtu.be/I3xEH8Vorcw'>youtube</a>
       - Quoted in Gabriel Pietrorazio’s Why Hasn’t The Pope Denounced The Doctrine Of Discovery?” Sojourners (Oct. 4, 2022) <a href='https://sojo.net/articles/why-hasn-t-pope-denounced-doctrine-discovery'>sojo.net</a>.
 
