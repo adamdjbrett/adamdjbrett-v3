@@ -40,6 +40,7 @@ Let's get social and connect via the web and chat.
 * [proven.lol](https://adjb.proven.lol)
 * [Research Gate](https://www.researchgate.net/profile/Adam-Brett-2)
 * [SciProfiles](https://sciprofiles.com/profile/adamdjbrett)
+* [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6110844)
 * [Google Scholar](https://scholar.google.com/citations?user=RDtqciQAAAAJ)
 * [Spoutible](https://spoutible.com/Adamdjbrett)
 * [Status](https://adjb.status.lol/)
