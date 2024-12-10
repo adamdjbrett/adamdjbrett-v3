@@ -372,7 +372,7 @@ service:
 publications:
     title: Publications
     text: 
-      - Co-author, Brett, Adam DJ, and Betty Hill (Lyons). 2024. "Documenting Domination: From the Doctrine of Christian Discovery to Dominion Theology"&nbsp;<em>Religions</em>&nbsp;15, no. 12: 1493 (Special Issue Race, Religion, and Nationalism in the 21st Century). <a href="https://doi.org/10.3390/rel15121493">https://doi.org/10.3390/rel15121493</a>.
+      - Co-author, Brett, Adam DJ, and Betty Hill (Lyons). 2024. "Documenting Domination- From the Doctrine of Christian Discovery to Dominion Theology" <em>Religions</em> 15, no. 12: 1493 (Special Issue Race, Religion, and Nationalism in the 21st Century). <a href="https://doi.org/10.3390/rel15121493">https://doi.org/10.3390/rel15121493</a>.
       - Co-author, Arnold , Philip P., Sandra Bigtree, and Adam DJ Brett. 2024. &ldquo;Preface and Introduction: From Indigenous Religions to Indigenous Values Vol. 5 No. 2&rdquo;.&nbsp;<em>Journal of the Council for Research on Religion</em>&nbsp;5 (2). Montreal, QC, Canada:ii-x. <a href="https://doi.org/10.26443/jcreor.v5i2.108">https://doi.org/10.26443/jcreor.v5i2.108</a>. 
       - Digital Humanities as Preserving Inherently Ephemeral Information, <em>The Bulletin for the Study of Religion</em>,53(1), 24-28. <a href="https://doi.org/10.1558/bsor.28913" target="_blank">https://doi.org/10.1558/bsor.28913</a>. <a href="/assets/pdfs/The+Download+(Brett).ris">RIS</a>.
       - REL 500/600 The Religious Origins of White Supremacy | Johnson v. M'Intosh and the Doctrine of Christian Discovery," <em>Doctrine of Discovery Project</em> (8 August 2024). <a href="https://doctrineofdiscovery.org/blog/doctrine-of-discovery-syllabus/">Read Now</a>
@@ -382,7 +382,7 @@ publications:
       - Journal Article Reavers aint men [<em>sic</em>] Or they forgot how to be | Teaching Religion in Science Fiction, <em>Perspectives in Religious Studies</em> 46, no. 4 (Winter 2019) 421-430 <a href="https://search.ebscohost.com/login.aspx?direct=true&db=rfh&AN=ATLAi5IE200229000408&site=ehost-live">via ATLA</a>.
       - Book Review "Religion and Culture Contemporary Practices and Perspectives." <em>Perspectives in Religious Studies</em> 42,  no. 1 (Spr 2015) 92-94. <a href='http://search.ebscohost.com/login.aspx?direct=true&db=rfh&AN=ATLAiC9Y160711000197&site=ehost-live.'>via ATLA</a>
       - Book Review The world's religions a contemporary reader. <em>Perspectives in Religious Studies</em> 42,  no. 1 (Spr 2015) 92-94. <a href='http://search.ebscohost.com/login.aspx?direct=true&db=rfh&AN=ATLAiC9Y160711000198&site=ehost-live'>via ATLA</a>
-      - Book Review <em>>Religious and Sexual Nationalisms in Central and Eastern Europe — Gods, Gays and Governments</em>, written by Sremac, Srdjan and R. Ruard Ganzevoort (eds.) (2015), <a href='https://doi.org/10.1163/15709256-12341335'><em>Journal of Empirical Theology</em>, 29(1), 133-134</a>.
+      - Book Review <em>Religious and Sexual Nationalisms in Central and Eastern Europe — Gods, Gays and Governments</em>, written by Sremac, Srdjan and R. Ruard Ganzevoort (eds.) (2015), <a href='https://doi.org/10.1163/15709256-12341335'><em>Journal of Empirical Theology</em>, 29(1), 133-134</a>.
 
 scholarship:
     title: Public Scholarship
