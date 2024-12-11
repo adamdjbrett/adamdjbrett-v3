@@ -397,7 +397,7 @@ scholarship:
 collaborative:
     title: Collaborative Digital Humanities Research Projects
     text: 
-      - title: "Executive Producer, Doctrine of Christian Discovery Podcast Limited Series, <a href='https://goodfaithmedia.org/doctrine-of-christian-discovery/'>link.adjb.co/docd</a>"
+      - title: "Executive Producer, Doctrine of Christian Discovery Podcast Limited Series, <a href='https://goodfaithmedia.org/doctrine-of-christian-discovery/'>brett.im/docd</a>"
       - title: "Academic Collaborative Member, Web Developer, Doctrine of Discovery Project <a href='https://doctrineofdiscovery.org'>doctrineofdiscovery.org</a>, (2017-present)"
       - title: "Co-Producer, Mapping the Doctrine of Discovery A Podcast <a href='https://podcast.doctrineofdiscovery.org'>podcast.doctrineofdiscovery.org</a>, (2022-present)"
       - title: "Web Developer, Then and Now Project three case studies of dispossession (2020-present)"
