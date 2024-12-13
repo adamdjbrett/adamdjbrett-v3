@@ -1,0 +1,279 @@
+---
+layout: null
+eleventyExcludeFromCollections: true
+---
+1:49:24 PM: build-image version: 5a8f847150ac58412478ef04b29345bf4b8b2df1 (focal)
+1:49:24 PM: buildbot version: 5a8f847150ac58412478ef04b29345bf4b8b2df1
+1:49:25 PM: Building without cache
+1:49:25 PM: Starting to prepare the repo for build
+1:49:25 PM: No cached dependencies found. Cloning fresh repo
+1:49:25 PM: git clone --filter=blob:none https://github.com/adamdjbrett/adamdjbrett-v3
+1:49:25 PM: Preparing Git Reference refs/heads/main
+1:49:27 PM: Custom publish path detected. Proceeding with the specified path: '_site'
+1:49:27 PM: Custom build command detected. Proceeding with the specified command: 'npm run build --incremental'
+1:49:28 PM: Starting to install dependencies
+1:49:29 PM: mise python@3.8.20   installing
+1:49:29 PM: mise python@3.8.20   downloading cpython-3.8.20+20241002-x86_64-unknown-linux-gnu-install_only_stripped.tar.gz
+1:49:29 PM: mise python@3.8.20   installing cpython-3.8.20+20241002-x86_64-unknown-linux-gnu-install_only_stripped.tar.gz
+1:49:29 PM: mise python@3.8.20   python --version
+1:49:29 PM: mise python@3.8.20   Python 3.8.20
+1:49:29 PM: mise python@3.8.20 ✓ installed
+1:49:29 PM: Python version set to 3.8
+1:49:30 PM: Collecting pipenv
+1:49:31 PM:   Downloading pipenv-2024.4.0-py3-none-any.whl.metadata (19 kB)
+1:49:31 PM: Collecting certifi (from pipenv)
+1:49:31 PM:   Downloading certifi-2024.8.30-py3-none-any.whl.metadata (2.2 kB)
+1:49:31 PM: Collecting packaging>=22 (from pipenv)
+1:49:31 PM:   Downloading packaging-24.2-py3-none-any.whl.metadata (3.2 kB)
+1:49:31 PM: Requirement already satisfied: setuptools>=67 in /opt/buildhome/.local/share/mise/installs/python/3.8.20/lib/python3.8/site-packages (from pipenv) (70.3.0)
+1:49:31 PM: Collecting virtualenv>=20.24.2 (from pipenv)
+1:49:31 PM:   Downloading virtualenv-20.28.0-py3-none-any.whl.metadata (4.4 kB)
+1:49:31 PM: Collecting distlib<1,>=0.3.7 (from virtualenv>=20.24.2->pipenv)
+1:49:31 PM:   Downloading distlib-0.3.9-py2.py3-none-any.whl.metadata (5.2 kB)
+1:49:31 PM: Collecting filelock<4,>=3.12.2 (from virtualenv>=20.24.2->pipenv)
+1:49:31 PM:   Downloading filelock-3.16.1-py3-none-any.whl.metadata (2.9 kB)
+1:49:31 PM: Collecting platformdirs<5,>=3.9.1 (from virtualenv>=20.24.2->pipenv)
+1:49:31 PM:   Downloading platformdirs-4.3.6-py3-none-any.whl.metadata (11 kB)
+1:49:31 PM: Downloading pipenv-2024.4.0-py3-none-any.whl (3.0 MB)
+1:49:31 PM:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.0/3.0 MB 47.7 MB/s eta 0:00:00
+1:49:31 PM: Downloading packaging-24.2-py3-none-any.whl (65 kB)
+1:49:31 PM:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 65.5/65.5 kB 8.7 MB/s eta 0:00:00
+1:49:31 PM: Downloading virtualenv-20.28.0-py3-none-any.whl (4.3 MB)
+1:49:31 PM:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 4.3/4.3 MB 168.8 MB/s eta 0:00:00
+1:49:31 PM: Downloading certifi-2024.8.30-py3-none-any.whl (167 kB)
+1:49:31 PM:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 167.3/167.3 kB 23.3 MB/s eta 0:00:00
+1:49:31 PM: Downloading distlib-0.3.9-py2.py3-none-any.whl (468 kB)
+1:49:31 PM:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 469.0/469.0 kB 48.1 MB/s eta 0:00:00
+1:49:31 PM: Downloading filelock-3.16.1-py3-none-any.whl (16 kB)
+1:49:31 PM: Downloading platformdirs-4.3.6-py3-none-any.whl (18 kB)
+1:49:31 PM: Installing collected packages: distlib, platformdirs, packaging, filelock, certifi, virtualenv, pipenv
+1:49:32 PM: Successfully installed certifi-2024.8.30 distlib-0.3.9 filelock-3.16.1 packaging-24.2 pipenv-2024.4.0 platformdirs-4.3.6 virtualenv-20.28.0
+1:49:32 PM: [notice] A new release of pip is available: 24.1.2 -> 24.3.1
+1:49:32 PM: [notice] To update, run: pip install --upgrade pip
+1:49:33 PM: Attempting Ruby version 2.7.2, read from environment
+1:49:33 PM: Using Ruby version 2.7.2
+1:49:34 PM: Started restoring cached go cache
+1:49:34 PM: Finished restoring cached go cache
+1:49:35 PM: go version go1.19.13 linux/amd64
+1:49:36 PM: Using PHP version 8.0
+1:49:37 PM: Attempting Node.js version '18' from .nvmrc
+1:49:38 PM: v18.20.5 is already installed.
+1:49:38 PM: Now using node v18.20.5 (npm v10.8.2)
+1:49:38 PM: Enabling Node.js Corepack
+1:49:38 PM: Started restoring cached build plugins
+1:49:38 PM: Finished restoring cached build plugins
+1:49:38 PM: Started restoring cached corepack dependencies
+1:49:38 PM: Finished restoring cached corepack dependencies
+1:49:38 PM: No npm workspaces detected
+1:49:38 PM: Started restoring cached node modules
+1:49:38 PM: Finished restoring cached node modules
+1:49:38 PM: Installing npm packages using npm version 10.8.2
+1:49:51 PM: npm warn deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
+1:49:51 PM: npm warn deprecated rimraf@3.0.2: Rimraf versions prior to v4 are no longer supported
+1:49:51 PM: npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+1:49:51 PM: npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+1:49:51 PM: npm warn deprecated sourcemap-codec@1.4.8: Please use @jridgewell/sourcemap-codec instead
+1:49:53 PM: npm warn deprecated eleventy-plugin-pwa-v2@1.0.2: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
+1:49:55 PM: added 584 packages, and audited 585 packages in 17s
+1:49:55 PM: 154 packages are looking for funding
+1:49:55 PM:   run `npm fund` for details
+1:49:55 PM: found 0 vulnerabilities
+1:49:55 PM: npm packages installed
+1:49:56 PM: Successfully installed dependencies
+1:49:56 PM: Starting build script
+1:49:57 PM: Detected 1 framework(s)
+1:49:57 PM: "eleventy" at version "3.0.0"
+1:49:57 PM: Section completed: initializing
+1:49:59 PM: ​
+1:49:59 PM: Netlify Build                                                 
+1:49:59 PM: ────────────────────────────────────────────────────────────────
+1:49:59 PM: ​
+1:49:59 PM: ❯ Version
+1:49:59 PM:   @netlify/build 29.56.1
+1:49:59 PM: ​
+1:49:59 PM: ❯ Flags
+1:49:59 PM:   accountId: 5d427c0fd949993efb2ee70a
+1:49:59 PM:   baseRelDir: true
+1:49:59 PM:   buildId: 675c8fb4d61af54ad8bf20f6
+1:49:59 PM:   deployId: 675c8fb4d61af54ad8bf20f8
+1:49:59 PM: ​
+1:49:59 PM: ❯ Current directory
+1:49:59 PM:   /opt/build/repo
+1:49:59 PM: ​
+1:49:59 PM: ❯ Config file
+1:49:59 PM:   /opt/build/repo/netlify.toml
+1:49:59 PM: ​
+1:49:59 PM: ❯ Context
+1:49:59 PM:   production
+1:49:59 PM: ​
+1:49:59 PM: ❯ Loading plugins
+1:49:59 PM:    - netlify-plugin-cache@1.0.3 from netlify.toml and package.json
+1:50:00 PM: A cache of '.cache' doesn't exist (yet).
+​
+1:50:00 PM: build.command from netlify.toml                               
+1:50:00 PM: ────────────────────────────────────────────────────────────────
+1:50:00 PM: ​
+1:50:00 PM: $ npm run build --incremental
+1:50:00 PM: > adamdjbrett@2.1.2 build
+1:50:00 PM: > npx @11ty/eleventy
+1:50:02 PM: [11ty] Writing ./_site/feed/feed.xml from ./content/eleventy-plugin-feed-adam-dj-brett-atom.njk (virtual)
+1:50:02 PM: [11ty] Writing ./_site/.htaccess from ./content/bots.njk
+1:50:02 PM: [11ty] Writing ./_site/humans.txt from ./content/pages/humans.txt.njk
+1:50:02 PM: [11ty] Writing ./_site/robots.txt from ./content/pages/robots.txt.njk
+1:50:02 PM: [11ty] Writing ./_site/sitemap.xml from ./content/pages/sitemap.xml.njk
+1:50:02 PM: [11ty] Writing ./_site/feed/feed.json from ./content/feed/feed.json.njk
+1:50:02 PM: [11ty] Writing ./_site/project/docd/index.html from ./content/project/docd.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/project/mapping/index.html from ./content/project/mapping.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/googlebfdcfddbdbfcbd99.html from ./content/pages/googlebfdcfddbdbfcbd99.html (njk)
+1:50:02 PM: [11ty] Writing ./_site/pinterest-682c7.html from ./content/pages/pinterest-682c7.html (njk)
+1:50:02 PM: [11ty] Writing ./_site/pinterest-cca81.html from ./content/pages/pinterest-cca81.html (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/index.html from ./content/blog.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/project/index.html from ./content/project.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/tags/index.html from ./content/tags.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/index.html from ./content/index.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/project/wsf/index.html from ./content/project/wsf.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/404.html from ./content/404.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/about/index.html from ./content/pages/about.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/codes/index.html from ./content/pages/codes.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/connect/index.html from ./content/pages/connect.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/consulting/index.html from ./content/pages/consulting.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/Contact/index.html from ./content/pages/contact.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/privacy-policy/index.html from ./content/pages/privacy-policy.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/tags/podcast/index.html from ./content/tag-pages.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/cv/index.html from ./content/cv.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/design/index.html from ./content/design.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/info/index.html from ./content/info.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2016-10-24-stephanie-wyatt/index.html from ./content/blog/2016-10-24-stephanie-wyatt.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2016-10-24-warner/index.html from ./content/blog/2016-10-24-warner.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/wocati/index.html from ./content/blog/2016-10-24-wocati.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2017-08-16-integrating-techology/index.html from ./content/blog/2017-08-16-integrating-techology.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2017-08-16-su-policy-statements/index.html from ./content/blog/2017-08-16-su-policy-statements.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2017-08-16-syallbus-design/index.html from ./content/blog/2017-08-16-syallbus-design.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2017-11-17-flourish-and-decay/index.html from ./content/blog/2017-11-17-flourish-and-decay.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2020-02-01-national-association-baptist-professors-religion/index.html from ./content/blog/2020-02-01-national-association-baptist-professors-religion.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2020-02-20-haudenosaunee-womens-influence/index.html from ./content/blog/2020-02-20-haudenosaunee-womens-influence.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2020-03-17-referral-links/index.html from ./content/blog/2020-03-17-referral-links.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2020-04-18-nocode/index.html from ./content/blog/2020-04-18-nocode.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2020-06-30-mother-earths-pandemic/index.html from ./content/blog/2020-06-30-mother-earths-pandemic.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2023-03-10-canopy-forum-series/index.html from ./content/blog/2023-03-10-canopy-forum-series.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2023-09-29-doctrine-discovery-conference/index.html from ./content/blog/2023-09-29-doctrine-discovery-conference.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2024-02-01-mapping-doctrine-discovery-podcast/index.html from ./content/blog/2024-02-01-mapping-doctrine-discovery-podcast.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2024-02-20-doctrine-christian-discovery-podcast/index.html from ./content/blog/2024-02-20-doctrine-christian-discovery-podcast.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2024-02-26-v8-website-award/index.html from ./content/blog/2024-02-26-v8-website-award.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2024-03-26-23rd-UNPFII-events/index.html from ./content/blog/2024-03-26-23rd-UNPFII-events.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2024-04-02-trump-dangerous-rhetoric-dehumanization/index.html from ./content/blog/2024-04-02-trump-dangerous-rhetoric-dehumanization.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2024-05-19-rs-rss/index.html from ./content/blog/2024-05-19-rs-rss.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2024-06-12-using-github-actions-convert-file-formats/index.html from ./content/blog/2024-06-12-using-github-actions-convert-file-formats.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2024-06-17-why-i-switched-from-namedotcom-namecheap/index.html from ./content/blog/2024-06-17-why-i-switched-from-namedotcom-namecheap.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2024-06-25-annoucing-alf-jacques-award/index.html from ./content/blog/2024-06-25-annoucing-alf-jacques-award.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2024-06-26-pll-lacrosse-buddy/index.html from ./content/blog/2024-06-26-pll-lacrosse-buddy.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2024-07-16-ten-commandments-truthiness/index.html from ./content/blog/2024-07-16-ten-commandments-truthiness.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2024-07-29-teaching-religious-studies/index.html from ./content/blog/2024-07-29-teaching-religious-studies.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2024-09-07-digital-humanities-limits/index.html from ./content/blog/2024-09-07-digital-humanities-limits.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2024-11-22-why-scholars-should-own-their-online-presence/index.html from ./content/blog/2024-11-22-why-scholars-should-own-their-online-presence.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2024-12-12-why-i-love-carrd-discount-code/index.html from ./content/blog/2024-12-12-why-i-love-carrd-discount-code.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/2024-12-11-new-publication-documenting-domination/index.html from ./content/blog/2024-12-11-new-publication-documenting-domination.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/page-2/index.html from ./content/blog.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/tags/lacrosse/index.html from ./content/tag-pages.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/page-3/index.html from ./content/blog.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/tags/running/index.html from ./content/tag-pages.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/page-4/index.html from ./content/blog.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/tags/pastor/index.html from ./content/tag-pages.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/blog/page-5/index.html from ./content/blog.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/tags/teacher/index.html from ./content/tag-pages.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/tags/portfolio/index.html from ./content/tag-pages.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/tags/website/index.html from ./content/tag-pages.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/tags/college/index.html from ./content/tag-pages.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/tags/university/index.html from ./content/tag-pages.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/tags/wocati/index.html from ./content/tag-pages.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/tags/taop/index.html from ./content/tag-pages.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/tags/technology/index.html from ./content/tag-pages.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/tags/academic/index.html from ./content/tag-pages.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/tags/classroom/index.html from ./content/tag-pages.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/tags/policy/index.html from ./content/tag-pages.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/tags/syllabus/index.html from ./content/tag-pages.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/tags/notes/index.html from ./content/tag-pages.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/tags/cfp/index.html from ./content/tag-pages.md (njk)
+1:50:02 PM: [11ty] Writing ./_site/tags/conference/index.html from ./content/tag-pages.md (njk)
+1:50:03 PM: [11ty] Writing ./_site/tags/syracuse/index.html from ./content/tag-pages.md (njk)
+1:50:03 PM: [11ty] Writing ./_site/tags/religion/index.html from ./content/tag-pages.md (njk)
+1:50:03 PM: [11ty] Writing ./_site/tags/nabpr/index.html from ./content/tag-pages.md (njk)
+1:50:03 PM: [11ty] Writing ./_site/tags/baptist/index.html from ./content/tag-pages.md (njk)
+1:50:03 PM: [11ty] Writing ./_site/tags/indigenous/index.html from ./content/tag-pages.md (njk)
+1:50:03 PM: [11ty] Writing ./_site/tags/feminism/index.html from ./content/tag-pages.md (njk)
+1:50:03 PM: [11ty] Writing ./_site/tags/discount/index.html from ./content/tag-pages.md (njk)
+1:50:03 PM: [11ty] Writing ./_site/tags/referral/index.html from ./content/tag-pages.md (njk)
+1:50:03 PM: [11ty] Writing ./_site/tags/nocode/index.html from ./content/tag-pages.md (njk)
+1:50:03 PM: [11ty] Writing ./_site/tags/docd/index.html from ./content/tag-pages.md (njk)
+1:50:03 PM: [11ty] Writing ./_site/blog/demo/index.html from ./content/blog/demo.md (njk)
+1:50:03 PM: [11ty] Writing ./_site/tags/doctrine-of-discovery/index.html from ./content/tag-pages.md (njk)
+1:50:03 PM: [11ty] Writing ./_site/tags/haudenosaunee/index.html from ./content/tag-pages.md (njk)
+1:50:03 PM: [11ty] Writing ./_site/tags/indigenous-peoples/index.html from ./content/tag-pages.md (njk)
+1:50:03 PM: [11ty] Writing ./_site/tags/event/index.html from ./content/tag-pages.md (njk)
+1:50:03 PM: [11ty] Writing ./_site/tags/education/index.html from ./content/tag-pages.md (njk)
+1:50:03 PM: [11ty] Writing ./_site/tags/doctrine-discovery/index.html from ./content/tag-pages.md (njk)
+1:50:03 PM: [11ty] Writing ./_site/tags/canopy/index.html from ./content/tag-pages.md (njk)
+1:50:03 PM: [11ty] Writing ./_site/tags/websites/index.html from ./content/tag-pages.md (njk)
+1:50:07 PM: Starting post processing
+1:50:07 PM: Skipping form detection
+1:50:07 PM: Post processing - header rules
+1:50:07 PM: Post processing - redirect rules
+1:50:08 PM: Post processing done
+1:50:08 PM: Section completed: postprocessing
+1:50:08 PM: Site is live ✨
+1:50:06 PM: npm warn exec The following package was not found and will be installed: pagefind@1.2.0
+1:50:06 PM: 1 page found without an <html> element.
+1:50:06 PM: Pages without an outer <html> element will not be processed by default.
+1:50:06 PM: If adding this element is not possible, use the root selector config to target a different root element.
+1:50:06 PM: 2 pages found without an html lang attribute.
+1:50:06 PM: Merging these pages with the en language, as that is the main language on this site.
+1:50:06 PM: Run Pagefind with --verbose for more information.
+1:50:06 PM: [11ty] Copied 292 Wrote 98 files in 5.13 seconds (52.4ms each, v3.0.0)
+1:50:07 PM: 370 files will be precached, totaling 69.48 MB.
+1:50:07 PM: ​
+1:50:07 PM: (build.command completed in 7s)
+1:50:07 PM: ​
+1:50:07 PM: Deploy site                                                   
+1:50:07 PM: ────────────────────────────────────────────────────────────────
+1:50:07 PM: ​
+1:50:07 PM: Starting to deploy site from '_site'
+1:50:07 PM: Calculating files to upload
+1:50:07 PM: 10 new file(s) to upload
+1:50:07 PM: 0 new function(s) to upload
+1:50:07 PM: Section completed: deploying
+1:50:09 PM: Finished waiting for live deploy in 2.077s
+1:50:09 PM: Site deploy was successfully initiated
+1:50:09 PM: ​
+1:50:09 PM: (Deploy site completed in 2.5s)
+1:50:09 PM: Successfully cached: .cache ... 3 files in total.
+1:50:10 PM: ​
+1:50:10 PM: Netlify Build Complete                                        
+1:50:10 PM: ────────────────────────────────────────────────────────────────
+1:50:10 PM: ​
+1:50:10 PM: (Netlify Build completed in 11s)
+1:50:10 PM: Caching artifacts
+1:50:10 PM: Started saving node modules
+1:50:10 PM: Finished saving node modules
+1:50:10 PM: Started saving build plugins
+1:50:10 PM: Finished saving build plugins
+1:50:10 PM: Started saving mise cache
+1:50:11 PM: Finished saving mise cache
+1:50:11 PM: Started saving corepack cache
+1:50:11 PM: Finished saving corepack cache
+1:50:11 PM: Started saving pip cache
+1:50:11 PM: Finished saving pip cache
+1:50:11 PM: Started saving emacs cask dependencies
+1:50:11 PM: Finished saving emacs cask dependencies
+1:50:11 PM: Started saving maven dependencies
+1:50:11 PM: Finished saving maven dependencies
+1:50:11 PM: Started saving boot dependencies
+1:50:11 PM: Finished saving boot dependencies
+1:50:11 PM: Started saving rust rustup cache
+1:50:11 PM: Finished saving rust rustup cache
+1:50:11 PM: Started saving go dependencies
+1:50:11 PM: Finished saving go dependencies
+1:50:38 PM: Build script success
+1:50:38 PM: Section completed: building
+1:50:39 PM: Uploading Cache of size 300.5MB
+1:50:40 PM: Section completed: cleanup
+1:50:40 PM: Finished processing build request in 1m15.962s
